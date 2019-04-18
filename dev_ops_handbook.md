@@ -75,68 +75,65 @@ containers (eg. Vagrant, Docker)
     * Cloud config files
     * **_Use of version control by operations is the highest predictor of both IT performance and organizational performance_** pg 117
   * **_Make infrastructure easier to rebuild than to repair_** pg. 118
-■ Pets vs. Cattle pg 118 - Bill Baker (Microsoft) quote
-■ Make changes to one config, then automatically deploy everywhere via
-Puppet or Ansible, etc.
-■ Immutable infrastructure
-○ Modify our definition of “done” to include running in production-like environments
-● CH 10 - Enable fast and reliable automated testing
-○ Imposter syndrome pg. 124
-○ Fix-it days - improvement blitzes pg 125
-○ Containers pg. 128
-○ Test pyramid pg. 133
-○ Test Driven Development pg. 134
-● CH 11 - Enable and practice continuous integration
-○ Version control branches pg. 143
-○ Trunk-based development pg. 145
-■ Optimize for indiv productivity
-■ Optimize for team productivity○
-BLUF don’t use feature branching pg. 147 AKA small code batch sizes
-● CH 12 - Automate and enable low-risk releases
-○ Fully document the steps in the deployment process with an eye towards
-automating as many as possible. Pg. 155
-○ Mean Time To Repair (MTTR) pg. 158
-○ Decouple deployments from releases pg. 164
-○ Environment-based release patterns pg. 165
-■ Blue-green deployment pattern pg. 166
-■ Database changes pg. 167
-○ Application-based release patterns pg. 165
-■ Dark launches
-● CH 13 - Architect for low-risk releases
-○ Architect for low-risk releases
-■ Strangler application pattern pg. 180
-■ Martin FowlerPart IV
-● CH 14 - Create telemetry to enable seeing and solving problems
-○ Create telemetry to enable seeing and solving problems
-○ Create within our applications and environments
-■ Ganglia, Graphite
-○ Mean Time To Repair (MTTR) in minutes not days
-■ Graph on pg. 197
-○ Art of Monitoring by James Turnball
-○ Example tools footnote pg. 199
-○ Get logs, transform them into metrics using the event router
-○ “Monitoring is so important that our monitoring systems need to be more
-available and scalable than the systems being monitored.” - Adrian Cockcroft
-○ logging of critical features
-○ INFO – wrong login for FPY
-○ WARN – DB not writing or taking too long to connect
-○ WARN – Internet connectivity
-○ inability to create institutional knowledge
-○ 80% of all outages are caused by change and 80% of MTTR is spent trying to
+    * Pets vs. Cattle pg 118 - Bill Baker (Microsoft) quote
+    * Make changes to one config, then automatically deploy everywhere via Puppet or Ansible, etc.
+    * Immutable infrastructure
+  * Modify our definition of “done” to include running in production-like environments
+* CH 10 - Enable fast and reliable automated testing
+  * Imposter syndrome pg. 124
+  * Fix-it days - improvement blitzes pg 125
+  * Containers pg. 128
+  * Test pyramid pg. 133
+  * Test Driven Development pg. 134
+* CH 11 - Enable and practice continuous integration
+  * Version control branches pg. 143
+  * Trunk-based development pg. 145
+    * Optimize for indiv productivity
+    * Optimize for team productivity
+  * BLUF don’t use feature branching (pg. 147) AKA small code batch sizes
+* CH 12 - Automate and enable low-risk releases
+  * Fully document the steps in the deployment process with an eye towards automating as many as possible. Pg. 155
+  * Mean Time To Repair (MTTR) pg. 158
+  * Decouple deployments from releases pg. 164
+  * Environment-based release patterns pg. 165
+    * Blue-green deployment pattern pg. 166
+    * Database changes pg. 167
+  * Application-based release patterns pg. 165
+    * Dark launches
+* CH 13 - Architect for low-risk releases
+  * Architect for low-risk releases
+    * Strangler application pattern pg. 180
+    * Martin Fowler
+---
+### Part IV
+* CH 14 - Create telemetry to enable seeing and solving problems
+  * Create telemetry to enable seeing and solving problems
+  * Create within our applications and environments
+    * Ganglia, Graphite
+  * Mean Time To Repair (MTTR) in minutes not days
+    * Graph on pg. 197
+  * Art of Monitoring by James Turnball
+  * Example tools footnote pg. 199
+  * Get logs, transform them into metrics using the event router
+  * “Monitoring is so important that our monitoring systems need to be more available and scalable than the systems being monitored.” - Adrian Cockcroft
+  * logging of critical features
+  * INFO – wrong login for FPY
+  * WARN – DB not writing or taking too long to connect
+  * WARN – Internet connectivity
+  * inability to create institutional knowledge
+  * 80% of all outages are caused by change and 80% of MTTR is spent trying to
 determine what changed
-○ questions on pg. 204
-○ Enable creation of Production metrics as part of daily work
-○ StatsD from Etsy
-○ Create self-service access to telemetry and ​ information radiators
-○ IDEA ​ – create a 320F new product launch dashboard
-○ When metrics aren’t actionable, they are likely vanity metrics that provide little
-useful information
-○ infrastructure metrics
-○ cost of delayed features
-○ instead of measuring downtime, measure real business consequences of
+  * questions on pg. 204
+  * Enable creation of Production metrics as part of daily work
+  * StatsD from Etsy
+  * Create self-service access to telemetry and ​ information radiators
+  * **_IDEA_** – create a 320F new product launch dashboard
+  * When metrics aren’t actionable, they are likely vanity metrics that provide little useful information
+  * infrastructure metrics
+  * cost of delayed features
+  * instead of measuring downtime, measure real business consequences of
 downtime. How much revenue should we have attained but didn’t.
-●
-CH 15 - Analyze telemetry to better anticipate problems and achieve goals
+* CH 15 - Analyze telemetry to better anticipate problems and achieve goals
 ○ Analyze telemetry to better anticipate problems and achieve goals
 ○ outlier detection
 ■ Normally distributed data
