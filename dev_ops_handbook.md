@@ -134,98 +134,94 @@ determine what changed
   * instead of measuring downtime, measure real business consequences of
 downtime. How much revenue should we have attained but didn’t.
 * CH 15 - Analyze telemetry to better anticipate problems and achieve goals
-○ Analyze telemetry to better anticipate problems and achieve goals
-○ outlier detection
-■ Normally distributed data
-● compute mean and std for normal
-● what to alert on
-○ analyze severe outages in last 30 days
-○ create a list of telemetry that could have enabled earlier
-and faster detection and diagnosis
-○ anomaly detection
-■ chi-squared distribution
-■ smoothing - moving averages (rolling avgs)○
-■ Fast Fourier Transform test
-■ Kolmogorov Smirnov and other "non-parametric"
-■ R
-■ Oculus
-■ Opsweekly
-■ Skyline
-Application logs
-■ INFO - wrong FPY tool login
-■ WARN - Db writes not working or taking too long
-■ WARN - internet connectivity or uptime
-● CH 16 - Enable feedback so development and operations can safely deploy code
-○ Pg 228 Progression
-○ Optimize for MTTR instead of MTBF
-○ Fix forward or roll back
-○ Contextual inquiry pg 232
-■ UX observation
-○ Service handback mechanism
-■ Fig. 38 Pg 237
-○ Launch Readiness Review & Handoff Readiness Review
-● CH 17 - Integrate hypothesis-driven development and A/B testing into our daily work
-○ Balsamiq
-○ A/B testing
-● CH 18 - Create review and coordination processes to increase quality of our current
-work
-○ Peer review
-○ Pull request
-○ Gitflow pg 250
-○ “The Knight Capital” failure pg 251
-○ Counterfactual
-○ Code review
-○ “Ask a programmer to review ten lines of code, he’ll find ten issues. Ask him to do
-five hundred lines, and he’ll say it looks good.” pg 256
-○ Pair programming pg 256
-■ Pair pattern: driver/ observer
-■ Pair pattern: one write tests/ other implement
-○ Extreme programming pg 259Part V
-● CH 19 - Enable and inject learning into daily work
-○ Dr. Steven Spears quote pg. 271
-○ NETFLIX “Cloud Native” architecture pg. 272
-■ Chaos Monkey
-○ Establish a just, learning culture
-○ Dr. Sidney Dekker
-■ Bad Apple Theory
-■ “Human error is not the cause of troubles; instead, human error is a
-consequence of the design of the tools that we gave them”
-■ Instead of “naming, blaming, and shaming or goal should always be to
-maximize opportunities for organizational learning.
-○ Blameless postmortems pg. 274-275
-○ Controlled introduction of failures into production pg. 274
-○ John Allspaw quote pg. 274
-○ System as imagined vs system that actually exists
-○ Publish post mortems as widely as possible
-■ Search: “Chef” “postmortem”
-●
-●
-CH 20 - Convert local discoveries into global improvements
-○ Chatbots and chat rooms pg. 287
-○ Automate standardized processes in software for re-use pg. 289
-○ Create a single, shared source code repository for our entire organization pg. 290
-○ Spread knowledge by using automated tests as documentation and communities
+  * Analyze telemetry to better anticipate problems and achieve goals
+  * outlier detection
+    * Normally distributed data
+      * compute mean and std for normal
+      * what to alert on
+        * analyze severe outages in last 30 days
+        * create a list of telemetry that could have enabled earlier and faster detection and diagnosis
+  * anomaly detection
+    * chi-squared distribution
+    * smoothing - moving averages (rolling avgs)○
+    * Fast Fourier Transform test
+    * Kolmogorov Smirnov and other "non-parametric"
+    * R
+    * Oculus
+    * Opsweekly
+    * Skyline
+  * Application logs
+    * INFO - wrong FPY tool login
+    * WARN - Db writes not working or taking too long
+    * WARN - internet connectivity or uptime
+* CH 16 - Enable feedback so development and operations can safely deploy code
+  * Pg 228 Progression
+  * Optimize for MTTR instead of MTBF
+  * Fix forward or roll back
+  * Contextual inquiry pg 232
+    * UX observation
+  * Service handback mechanism
+    * Fig. 38 Pg 237
+  * Launch Readiness Review & Handoff Readiness Review
+* CH 17 - Integrate hypothesis-driven development and A/B testing into our daily work
+  * Balsamiq
+  * A/B testing
+* CH 18 - Create review and coordination processes to increase quality of our current work
+  * Peer review
+  * Pull request
+  * Gitflow pg 250
+  * “The Knight Capital” failure pg 251
+  * Counterfactual
+  * Code review
+  * “Ask a programmer to review ten lines of code, he’ll find ten issues. Ask him to do five hundred lines, and he’ll say it looks good.” pg 256
+  * Pair programming pg 256
+    * Pair pattern: driver/ observer
+    * Pair pattern: one write tests/ other implement
+  * Extreme programming pg 259
+---
+### Part V
+* CH 19 - Enable and inject learning into daily work
+  * Dr. Steven Spears quote pg. 271
+  * NETFLIX “Cloud Native” architecture pg. 272
+    * Chaos Monkey
+  * Establish a just, learning culture
+  * Dr. Sidney Dekker
+    * Bad Apple Theory
+    * “Human error is not the cause of troubles; instead, human error is a consequence of the design of the tools that we gave them”
+    * Instead of “naming, blaming, and shaming or goal should always be to maximize opportunities for organizational learning.
+  * Blameless postmortems pg. 274-275
+  * Controlled introduction of failures into production pg. 274
+  * John Allspaw quote pg. 274
+  * System as imagined vs system that actually exists
+  * Publish post mortems as widely as possible
+    * Search: “Chef” “postmortem”
+* CH 20 - Convert local discoveries into global improvements
+  * Chatbots and chat rooms pg. 287
+  * Automate standardized processes in software for re-use pg. 289
+  * Create a single, shared source code repository for our entire organization pg. 290
+  * Spread knowledge by using automated tests as documentation and communities
 of practice pg. 293
-○ Design for operations through codified nonfunctional requirements pg. 293
-○ Build reusable operations user stories into development pg. 294
-■ Ops checklist pg. 295
-○ Ensure technology choices help achieve organizational goals pg. 295
-CH 21 - Reserve time to create organizational learning and improvement
-○ Institutionalize rituals to pay down technical debt pg. 300
-○ Enable everyone to teach and learn pg. 303
-○ Create internal consulting and coaches to spread practices pg. 306Part VI
-● CH 22 - Information security as everyone’s job, every day
-○ James Wickett creator of Gauntlet security tool
-○ Integrate security into development iteration demonstrations
-○ Possible metrics: development velocity, failed customer interactions
-○ Integrate security into defect tracking and post-mortems
-○ Integrate preventive security controls into shared source code repositories and
-shared services
-○ Integrate security into our deployment pipeline
-○ Ensure security of the application
-● CH 23 - Protecting the deployment pipeline
-○ Integrate security and compliance into change approval processes
-○ Re-categorize the majority of our lower risk changes as standard changes
-○ What to do when changes are categorized as normal changes
-○ Reduce reliance on separation of duty
-○ Ensure documentation and proof for auditors and compliance officers
+  * Design for operations through codified nonfunctional requirements pg. 293
+  * Build reusable operations user stories into development pg. 294
+    * Ops checklist pg. 295
+  * Ensure technology choices help achieve organizational goals pg. 295
+* CH 21 - Reserve time to create organizational learning and improvement
+  * Institutionalize rituals to pay down technical debt pg. 300
+  * Enable everyone to teach and learn pg. 303
+  * Create internal consulting and coaches to spread practices pg. 306
+---
+### Part VI
+* CH 22 - Information security as everyone’s job, every day
+  * James Wickett creator of Gauntlet security tool
+  * Integrate security into development iteration demonstrations
+  * Possible metrics: development velocity, failed customer interactions
+  * Integrate security into defect tracking and post-mortems
+  * Integrate preventive security controls into shared source code repositories and shared services
+  * Integrate security into our deployment pipeline
+  * Ensure security of the application
+* CH 23 - Protecting the deployment pipeline
+  * Integrate security and compliance into change approval processes
+  * Re-categorize the majority of our lower risk changes as standard changes
+  * What to do when changes are categorized as normal changes
+  * Reduce reliance on separation of duty
+  * Ensure documentation and proof for auditors and compliance officers
