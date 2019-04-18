@@ -52,30 +52,29 @@
     * Make relevant ops work visible on shared kanban boards pg. 104
 ---
 ### Part III
-● CH 9 - Create the Foundations of Our Deployment Pipeline
-○ Enable on-demand creation of dev, test, and production environments pg. 113
-■ Use automation for any or all:
-● Copying a virtualized environment (eg. VMware image, etc.)
-● Building an automated environment creation process that starts
+* CH 9 - Create the Foundations of Our Deployment Pipeline
+  * Enable on-demand creation of dev, test, and production environments pg. 113
+    * Use automation for any or all:
+      * Copying a virtualized environment (eg. VMware image, etc.)
+      * Building an automated environment creation process that starts
 from “bare metal” (eg, PXE install from a baseline image)
-● Using “infrastructure as code” config management tools (eg
+      * Using “infrastructure as code” config management tools (eg
 Puppet, Chef, Ansible, Salt, CFEngine, etc.)
-● Using automated automated operating system configuration tools
+      * Using automated automated operating system configuration tools
 (eg Solaris Jumpstart, Red Hat Kickstart, Debian preseed)
-● Assembling an environment from a set of virtual images or
+      * Assembling an environment from a set of virtual images or
 containers (eg. Vagrant, Docker)
-● AWS, Azure, other public cloud
-○ Create our single repository of truth for the entire system pg. 115
-■ All application code and dependencies
-■ Any script used to create db schemas, application reference data
-■ All env create tools
-■ Any file used to create containers
-■ All supporting automated tests and any manual test scripts
-■ Any script that supports code packaging
-■ Cloud config files
-■ ***Use of version control by operations is the highest predictor of
-both IT performance and organizational performance*** ​ pg 117
-○ Make infrastructure easier to rebuild than to repair ​ pg. 118
+      * AWS, Azure, other public cloud
+  * Create our single repository of truth for the entire system pg. 115
+    * All application code and dependencies
+    * Any script used to create db schemas, application reference data
+    * All env create tools
+    * Any file used to create containers
+    * All supporting automated tests and any manual test scripts
+    * Any script that supports code packaging
+    * Cloud config files
+    * **_Use of version control by operations is the highest predictor of both IT performance and organizational performance_** pg 117
+  * **_Make infrastructure easier to rebuild than to repair_** pg. 118
 ■ Pets vs. Cattle pg 118 - Bill Baker (Microsoft) quote
 ■ Make changes to one config, then automatically deploy everywhere via
 Puppet or Ansible, etc.
