@@ -42,15 +42,16 @@
   * Design team boundaries in accordance with Conway’s Law pg. 88
   * Create loosely-coupled architectures to enable developer productivity and safety pg. 89
   * Keep team sizes small (the “two-pizza team” rule) pg. 90
-CH 8 - How to get great outcomes by integrating operations into the daily work of
-development pg. 95
-○ Create shared services to increase developer productivity pg. 97
-○ Embed ops engineers into our service teams pg. 99
-○ Assign an ops engineer to each service team pg. 100
-○ Integrate ops into dev rituls pg. 101
-■ Invite ops to our dev standups pg. 102
-■ Invite ops to our dev retrospectives pg. 102
-■ Make relevant ops work visible on shared kanban boards pg. 104Part III
+* CH 8 - How to get great outcomes by integrating operations into the daily work of development pg. 95
+  * Create shared services to increase developer productivity pg. 97
+  * Embed ops engineers into our service teams pg. 99
+  * Assign an ops engineer to each service team pg. 100
+  * Integrate ops into dev rituls pg. 101
+    * Invite ops to our dev standups pg. 102
+    * Invite ops to our dev retrospectives pg. 102
+    * Make relevant ops work visible on shared kanban boards pg. 104
+---
+### Part III
 ● CH 9 - Create the Foundations of Our Deployment Pipeline
 ○ Enable on-demand creation of dev, test, and production environments pg. 113
 ■ Use automation for any or all:
