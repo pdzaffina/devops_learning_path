@@ -5,8 +5,8 @@
 * CH 3 - The second way: the principles of feedback
 * CH 4 - The third way: the principles of continual learning and experimentation
 ### Part II
-● CH 5 - Selecting which value stream to start with pg. 51
-○ Greenfield vs. brownfield services pg. 54
+* CH 5 - Selecting which value stream to start with pg. 51
+..* Greenfield vs. brownfield services pg. 54
 ○ Consider both ​ systems of record​ (ERP, HR, Finance) and ​ systems of
 engagement​ (employee or customer facing) pg. 56
 ○ Start with the most sympathetic and innovative groups
