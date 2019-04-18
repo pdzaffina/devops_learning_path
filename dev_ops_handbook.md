@@ -11,49 +11,37 @@
   * Start with the most sympathetic and innovative groups
     * Technology adoption curve Fig 9. Pg. 58
   * Expanding DevOps across our organization pg. 58
-■ PH 1. Find innovators and early adopters
-■ PH 2. Build critical mass and silent majority
-■ PH 3. Identify the holdouts
-○ “Little fish learn to be big fish in little ponds.” - Peter Drucker
-● CH 6 - Understanding the work in our value stream, making it visible, and expanding it
-across the organization pg. 61
-○ Identify the teams supporting our value stream pg. 63
-○ Create a value stream map to see the work pg. 63
-○ Creating a dedicating transformation team pg. 66
-○ Agree on a shared goal pg. 68
-○ Keep our improvement planning horizons short pg.68
-○ Reserve 20% of cycles for ​ non-functional requirements​ and reducing technical
-debt pg. 69
-■ Positive user-invisible value Figure 11 pg. 70
-○ Increase the visibility of work pg. 73
-○ Use tools to reinforce desired behavior pg. 73
-● CH 7 - How to design our organization and architecture with Conway’s Law in mind pg.
-77
-○ ORMs pg. 79
-○ Organizational archetypes pg. 80
-■ Functional, Matrix, Market
-○ Problems often caused by overly functional orientation (“optimized for cost”) pg.
-81
-■ PSC, IT, HR, shared services
-○ Enable market-oriented teams (“optimized for speed”) pg. 82○
-○
-○
-○
-○
-○
-○
-●
-Making functional orientation work pg. 83
-Testing, operations, and security as everyone’s job, every day pg. 84
-Enable every team member to be a generalist pg. 85
-■ Specialists vs. generalists vs. “E-shaped” Table 2 pg. 86
-● QE transition last yr
-■ Dr. Carol Dweck fixed vs. growth mindset pg.87
-Fund not projects, but services and products pg. 87
-Design team boundaries in accordance with Conway’s Law pg. 88
-Create loosely-coupled architectures to enable developer productivity and safety
-pg. 89
-Keep team sizes small (the “two-pizza team” rule) pg. 90
+    * PH 1. Find innovators and early adopters
+    * PH 2. Build critical mass and silent majority
+    * PH 3. Identify the holdouts
+  * “Little fish learn to be big fish in little ponds.” - Peter Drucker
+* CH 6 - Understanding the work in our value stream, making it visible, and expanding it across the organization pg. 61
+  * Identify the teams supporting our value stream pg. 63
+  * Create a value stream map to see the work pg. 63
+  * Creating a dedicating transformation team pg. 66
+  * Agree on a shared goal pg. 68
+  * Keep our improvement planning horizons short pg.68
+  * Reserve 20% of cycles for ​ non-functional requirements​ and reducing technical debt pg. 69
+    * Positive user-invisible value Figure 11 pg. 70
+  * Increase the visibility of work pg. 73
+  * Use tools to reinforce desired behavior pg. 73
+* CH 7 - How to design our organization and architecture with Conway’s Law in mind pg. 77
+  * ORMs pg. 79
+  * Organizational archetypes pg. 80
+    * Functional, Matrix, Market
+  * Problems often caused by overly functional orientation (“optimized for cost”) pg. 81
+    * PSC, IT, HR, shared services
+  * Enable market-oriented teams (“optimized for speed”) pg. 82
+  * Making functional orientation work pg. 83
+  * Testing, operations, and security as everyone’s job, every day pg. 84
+  * Enable every team member to be a generalist pg. 85
+    * Specialists vs. generalists vs. “E-shaped” Table 2 pg. 86
+      * QE transition last yr
+    * Dr. Carol Dweck fixed vs. growth mindset pg.87
+  * Fund not projects, but services and products pg. 87
+  * Design team boundaries in accordance with Conway’s Law pg. 88
+  * Create loosely-coupled architectures to enable developer productivity and safety pg. 89
+  * Keep team sizes small (the “two-pizza team” rule) pg. 90
 CH 8 - How to get great outcomes by integrating operations into the daily work of
 development pg. 95
 ○ Create shared services to increase developer productivity pg. 97
