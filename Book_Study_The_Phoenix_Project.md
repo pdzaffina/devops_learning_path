@@ -2,14 +2,16 @@
 
 ## Section 1: Chapters 1-7, pages 15-93
 
-### *Themes:*
+### *Themes*
 * Companies rely on technology/ computers more and more.
 * Lean management principles apply to IT/ knowledge work as much as manufacturing plants
    * Visual work
    * Constraint management
 
-### *Key Takeaways:*
+### *Key Takeaways*
 * 3 Ways
+* 4 types of work
+  1. Business Projects
 * Lean management applies to knowledge work
 
 #### Chapter 1
@@ -29,8 +31,8 @@
 
 #### Chapter 4
 * “It’s amazing to me how handoffs between Development and IT Operations always get screwed up.” pg 49
-* Ah Ha moment: IT is critical/ involved in many projects pg 49
-   * Should have been a Duh! moment
+* *PZ's Ah Ha moment:* IT is critical to/ involved in many projects pg 49
+   * Duh!
 * Development environment and production. Case for VMs/ containerization pg 52
 * Deadlines driving decisions pg 54 
    * symptom of poor scoping and poor risk management
@@ -50,16 +52,26 @@
 
 #### Chapter 7
 * “Can’t achieve strategic until you’ve mastered the tactical.” pg 87
-* Types of work pg 88
 * Deliverables, outages, and compliance pg 88
 * Three management movements pg 89
-   * WIP is the silent killer
+  * Theory of Constraints
+  * Toyota Production System
+  * Total Quality Management
+* WIP is the silent killer
 * Pace work to the bottleneck pg 90
-* “...fast, predictable, and uninterrupted flow of planned work that delivers value to the business while minimizing the impact and disruption of unplanned work, so you can provide stable, predictable, and secure IT service.” pg 91
+  * "... any improvements made *anywhere besides the bottleneck* are an illusion" 
+* “... ensure the fast, predictable, and uninterrupted flow of planned work that delivers value to the business while minimizing the impact and disruption of unplanned work, so you can provide stable, predictable, and secure IT service.” pg 91
+* "... figure out how to control the release of work into IT Operations and, more importantly, ensure that your most constrained resources are doing only the work that serves the goal of the entire system, not just one silo."
 * Three Ways pg 91
+  1. **Fast flow of work as it moves from Development into IT Operations.** That is what is between the business and the customer.
+  1. **Shorten and amplify feedback loops, so we can fix quality at the source and avoid rework.**
+  1. **Create a culture that simultaneously fosters experimentation, learning from failure, and understanding that repetition and practice are the prerequisites to mastery.**
+* Four types of workpg pg 88 & 92
+  1. Business projects
 
 ### *Discussion Questions*
 * What can we implement/ How can we incorporate lessons?
+* What really resonated with you?
 
 <div style="page-break-after: always;"></div>
 
@@ -67,9 +79,9 @@
 
 ## Section 2: Chapters 8-16, pages 94-173
 
-### *Themes:*
+### *Themes*
 
-### *Key Takeaways:*
+### *Key Takeaways*
 
 #### Chapter 8
 
@@ -97,9 +109,9 @@
 
 ## Section 3: Chapters 17-26, pages 177-263
 
-### *Themes:*
+### *Themes*
 
-### *Key Takeaways:*
+### *Key Takeaways*
 
 #### Chapter 17
 
@@ -129,9 +141,9 @@
 
 ## Section 4: Chapters 27-35, pages 264-338
 
-### *Themes:*
+### *Themes*
 
-### *Key Takeaways:*
+### *Key Takeaways*
 
 #### Chapter 27
 
