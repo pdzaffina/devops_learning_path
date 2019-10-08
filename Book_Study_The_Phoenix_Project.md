@@ -2,6 +2,11 @@
 
 ## Section 1: Chapters 1-7, pages 15-93
 
+### *Discussion Questions*
+* What can we implement/ How can we incorporate lessons?
+* What really resonated with you?
+* Do you know any Brent's?
+
 ### *Themes*
 * Companies rely on technology/ computers more and more.
 * Lean management principles apply to IT/ knowledge work as much as manufacturing plants
@@ -69,23 +74,30 @@
 * Four types of workpg pg 88 & 92
   1. Business projects
 
-### *Discussion Questions*
-* What can we implement/ How can we incorporate lessons?
-* What really resonated with you?
-
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
 
 ## Section 2: Chapters 8-16, pages 94-173
 
+### *Discussion Questions*
+
 ### *Themes*
 
 ### *Key Takeaways*
 
 #### Chapter 8
+* CAB Process:
+  * **High Risk**, *"fragile"* - changes must be authorized by CAB before being scheduled and implemented. pg 100
+  * **Medium Risk**, *"messy middle"* - change submitter has responsibility and accountability for consulting and getting approval from people potentially affected. Once arranged, they submit the change to the CAB for review and scheduling. pg 102
+  * **Low Risk**, *"standard"* - changes we've done many times successfully are preapproved. They still need to be submitted, but can be scheduled without the CAB. pg 102
 
 #### Chapter 9
+* Dealing with a SEV 1 incident pg 105
+  * Need to know all changes
+  * Finger pointing is unproductive 
+  * Announce and discuss any changes before implementing pg 106
+  * 
 
 #### Chapter 10
 
@@ -101,13 +113,13 @@
 
 #### Chapter 16
 
-### *Discussion Questions*
-
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
 
 ## Section 3: Chapters 17-26, pages 177-263
+
+### *Discussion Questions*
 
 ### *Themes*
 
@@ -133,13 +145,13 @@
 
 #### Chapter 26
 
-### *Discussion Questions*
-
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
 
 ## Section 4: Chapters 27-35, pages 264-338
+
+### *Discussion Questions*
 
 ### *Themes*
 
@@ -162,5 +174,3 @@
 #### Chapter 34
 
 #### Chapter 35
-
-### *Discussion Questions*
