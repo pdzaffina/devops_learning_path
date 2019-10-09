@@ -71,8 +71,8 @@
   1. **Fast flow of work as it moves from Development into IT Operations.** That is what is between the business and the customer.
   1. **Shorten and amplify feedback loops, so we can fix quality at the source and avoid rework.**
   1. **Create a culture that simultaneously fosters experimentation, learning from failure, and understanding that repetition and practice are the prerequisites to mastery.**
-* Four types of workpg pg 88 & 92
-  1. Business projects
+* Four types of work pg 88 & 92
+  1. Business Projects
 
 <div style="page-break-after: always;"></div>
 
@@ -94,13 +94,25 @@
 
 #### Chapter 9
 * Dealing with a SEV 1 incident pg 105
-  * Need to know all changes
-  * Finger pointing is unproductive 
+  * Start call by presenting a timeline of all relevant events pg 106
+  * Need to know all changes pg 105
+  * Finger pointing is unproductive pg 105 
   * Announce and discuss any changes before implementing pg 106
-  * 
+* Four types of work
+  1. Business Projects pg 92
+  1. IT Internal Projects pg 109
+  1. Changes pg 110
 
 #### Chapter 10
-
+* Brent the bottlenecku
+  * Isolate the constraint
+  * Put safe guards in place to protect the constrained resource
+    * "... create a resource pool of level 3 engineers to handle the escalations, but keep Brent out of the pool. The level 3s would be responsible for resolving all incidents to closure, and would be the only people who can get access to Brent.
+    *  ... they are responsible for documenting what they learned, and Brent would never be allowed to work on the same problem twice 
+    *  ... Brent not allowed to touch keyboard. He's allowed to tell people what to type and shoulder surf only." 
+* "Processes are supposed to protect people." pg 115
+* "Every time that we let Brent fix something that none of can replicate, Brent gets a little smarter,nd the entire system gets dumber." pg 116
+* 
 #### Chapter 11
 
 #### Chapter 12
