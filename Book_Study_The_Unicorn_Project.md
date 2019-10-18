@@ -39,6 +39,17 @@
 
 
 #### Chapter 3
+* features important because you can see. Builds important too. Devs can't be productive without a great build, integration, and test process. pg 37
+* definition of good day pg 44
+* definition of bad day pg 44
+* state of flow pg 44
+* agony of waiting pg 52
+* Constantly running program as way to provide constant feedback pg 54
+* functional programming pg 55
+  * get rid of loops entirely and use iterators instead pg 55
+  * healthy software system is one that you can change at the speed you need, where people can contribute easily without jumping through hoops. pg 57
+
+
 
 #### Chapter 4
 
