@@ -1,6 +1,6 @@
 ﻿# Book Study: The Phoenix Project
 
-## Section 1: Chapters 1-7, pages 15-93
+## Section 1: Chapters 1-4
 
 ### *Discussion Questions*
 * What can we implement/ How can we incorporate lessons?
@@ -44,6 +44,10 @@
 * Break-fix cycle pg 56 (top)
 * Desktop support delays pg 57
 
+## Section 2: Chapters 5-7
+### *Discussion Questions*
+### *Themes*
+### *Key Takeaways*
 #### Chapter 5
 * Old servers barely hanging on pg 68
 * Brent is bottleneck according to Theory of Constraints pg 69
@@ -78,7 +82,7 @@
 
 # Book Study: The Phoenix Project
 
-## Section 2: Chapters 8-16, pages 94-173
+## Section 3: Chapters 8-12
 
 ### *Discussion Questions*
 
@@ -117,6 +121,11 @@
 
 #### Chapter 12
 
+## Section 4: Chapters 13-16
+### *Discussion Questions*
+### *Themes*
+### *Key Takeaways*
+
 #### Chapter 13
 
 #### Chapter 14
@@ -129,7 +138,7 @@
 
 # Book Study: The Phoenix Project
 
-## Section 3: Chapters 17-26, pages 177-263
+## Section 5: Chapters 17-21
 
 ### *Discussion Questions*
 
@@ -147,6 +156,11 @@
 
 #### Chapter 21
 
+## Section 6: Chapters 22-26
+### *Discussion Questions*
+### *Themes*
+### *Key Takeaways*
+
 #### Chapter 22
 
 #### Chapter 23
@@ -161,7 +175,7 @@
 
 # Book Study: The Phoenix Project
 
-## Section 4: Chapters 27-35, pages 264-338
+## Section 4: Chapters 27-31
 
 ### *Discussion Questions*
 
@@ -178,6 +192,11 @@
 #### Chapter 30
 
 #### Chapter 31
+
+## Section 2: Chapters 32-35
+### *Discussion Questions*
+### *Themes*
+### *Key Takeaways*
 
 #### Chapter 32
 
