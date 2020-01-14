@@ -175,7 +175,7 @@
 
 # Book Study: The Phoenix Project
 
-## Section 4: Chapters 27-31
+## Section 7: Chapters 27-31
 
 ### *Discussion Questions*
 
@@ -193,7 +193,7 @@
 
 #### Chapter 31
 
-## Section 2: Chapters 32-35
+## Section 8: Chapters 32-35
 ### *Discussion Questions*
 ### *Themes*
 ### *Key Takeaways*
