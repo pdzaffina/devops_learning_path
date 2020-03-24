@@ -146,6 +146,12 @@
   2. IT projects
   3. Change control
   4. Unplanned work
+* Three ways
+  1. Fast flow of work from dev through ops to business
+  2. Feedback
+* Stabilize environment
+* Visualize and manage work
+* Manage constraint
 
 #### Chapter 16
 
