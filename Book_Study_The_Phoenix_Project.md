@@ -158,6 +158,10 @@
   3. subordinate the constraint
   4. elevate the constraint
   5. prevent inertia from becoming the constraint
+* **Deciding what not to do is just as important as deciding what to do.**
+* invoicing issue
+* the right way to handle a sev 1 incident
+* quitting over convictions
 
 #### Chapter 16
 
