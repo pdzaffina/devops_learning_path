@@ -152,6 +152,12 @@
 * Stabilize environment
 * Visualize and manage work
 * Manage constraint
+* "The Goal" by Eli Goldratt
+  1. identify the constraint.
+  2. exploit the constraint
+  3. subordinate the constraint
+  4. elevate the constraint
+  5. prevent inertia from becoming the constraint
 
 #### Chapter 16
 
