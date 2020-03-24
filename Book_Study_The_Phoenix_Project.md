@@ -127,8 +127,13 @@
 ### *Key Takeaways*
 
 #### Chapter 13
+* Phoenix deployment
+  * Crazy working conditions for deployments
+  * Massive PCI issue
 
 #### Chapter 14
+* Business holds IT resposible for finding solutions not just saying no.
+  >> “I need the business to tell me it’s no longer being held hostage by you IT guys. This has been the running complaint the entire time I’ve been CEO. IT is in the way of every major initiative. Meanwhile, our competitors pull away from us, leaving us in the dust. Dammit, we can’t even take a crap without IT being in the way.”
 
 #### Chapter 15
 
