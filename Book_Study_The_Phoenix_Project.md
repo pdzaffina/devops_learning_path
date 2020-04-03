@@ -189,6 +189,7 @@
 * work centers for IT
   * man, method, machine, measure
   * bill of resources, and routing 
+  * work instructions
 * utilization is hrs busy / hrs avail
   * 50/50 wait 1 unit vs 90/10 wait 9 units, vs 99/1 wait 99 units
 
@@ -210,6 +211,20 @@
   * purple - top 5 business projects
   * yellow - not prioritity
   * pink sticky for stuck
+
+* It project types
+  * Replace fragile
+  * Vendor upgrades and patching
+  * support internal projects
+  * audit and security work
+  * datacenter work
+
+* three categories
+  * increase capacity to constraint
+  * doesn't require constraint
+  * all others
+
+* laptop replacement queue
 
 #### Chapter 23
 
