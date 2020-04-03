@@ -227,12 +227,23 @@
 * laptop replacement queue
 
 #### Chapter 23
+* resource graph
 
 #### Chapter 24
+* meeting with Dick
+* managers measurement program
+* CFO questions
+  * desxrive a good day and bad day
+  * what are goals, objectives, and measurements for the year
+
+* systems thinking 
 
 #### Chapter 25
+* fleet mgmt oil change analogy
 
 #### Chapter 26
+* marketing phoenix project reporting delayed until next year
+* planning horizon for IT projects greater than 12 months
 
 <div style="page-break-after: always;"></div>
 
@@ -247,7 +258,10 @@
 ### *Key Takeaways*
 
 #### Chapter 27
-
+* CIA triangle of data
+  * confidentiality
+  * integrity
+  * availability
 #### Chapter 28
 
 #### Chapter 29
