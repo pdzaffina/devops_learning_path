@@ -185,11 +185,17 @@
 * mtg with CEO and all IT leaders
 * Project freeze
 #### Chapter 20
-* after project freeze those not relying on constraint can be released
+* after project freeze, those not relying on constraint can be released
 * work centers for IT
   * man, method, machine, measure
-  * bill of materials, bill of resources
+  * bill of resources, and routing 
+* utilization is hrs busy / hrs avail
+  * 50/50 wait 1 unit vs 90/10 wait 9 units, vs 99/1 wait 99 units
+
 #### Chapter 21
+* audit meeting
+  * scoping error
+  * management controls that backstop IT
 
 ## Section 6: Chapters 22-26
 ### *Discussion Questions*
@@ -197,6 +203,13 @@
 ### *Key Takeaways*
 
 #### Chapter 22
+* improvement kata
+  * 2wk cycle for plan, do, check, act
+* color coding change board 
+  * Green - it internal 20%
+  * purple - top 5 business projects
+  * yellow - not prioritity
+  * pink sticky for stuck
 
 #### Chapter 23
 
