@@ -182,9 +182,13 @@
 #### Chapter 18
 
 #### Chapter 19
-
+* mtg with CEO and all IT leaders
+* Project freeze
 #### Chapter 20
-
+* after project freeze those not relying on constraint can be released
+* work centers for IT
+  * man, method, machine, measure
+  * bill of materials, bill of resources
 #### Chapter 21
 
 ## Section 6: Chapters 22-26
