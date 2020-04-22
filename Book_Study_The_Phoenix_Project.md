@@ -230,6 +230,9 @@
 * resource graph
 
 #### Chapter 24
+* meeting with John at bar
+* importance of honest feedback
+#### Chapter 25
 * meeting with Dick
 * managers measurement program
 * CFO questions
@@ -238,7 +241,6 @@
 
 * systems thinking 
 
-#### Chapter 25
 * fleet mgmt oil change analogy
 
 #### Chapter 26
