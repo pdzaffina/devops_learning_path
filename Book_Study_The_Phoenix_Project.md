@@ -261,26 +261,55 @@
 
 #### Chapter 27
 * CIA triangle of data
-  * confidentiality
-  * integrity
-  * availability
-#### Chapter 28
+  * Confidentiality
+  * Integrity
+  * Availability
+#### Chapter 28 (9:25:45)
+* Shadow IT
+* Increased performance of group
+* Phoenix deployment #2
 
-#### Chapter 29
+#### Chapter 29 (9:47:24)
+* mtg w/ Steve re: John's recommendations
+* No reverse gear
+* Flow of work one way - "Single Piece Flow"
+* Faster cycle time, speed up release schedule
+  * when things are bad, do more of them to improve not less to avoid.
+  * like football practice or military training
+* SWAT team to do some features
 
-#### Chapter 30
+#### Chapter 30 (10:04:15)
+* visit to MRP plant
+* "inner Allspaw"
+* take time
+* find constraint, then look for way to automate
+* Ohno, Spear, Rother
+* Dev -> Ops -> QA -> Business = super tribe
+* Eric Reis "Lean Startup"
 
-#### Chapter 31
+
+#### Chapter 31 (10:38:30)
+* Process mapping white board
+* Value Stream Map
+* Automating environment setups
 
 ## Section 8: Chapters 32-35
 ### *Discussion Questions*
 ### *Themes*
 ### *Key Takeaways*
 
-#### Chapter 32
+#### Chapter 32 (10:38:30)
+* decouple from Phoenix
+* open source db
+* how do you manage db sprawl
+* Brent secret mission
 
-#### Chapter 33
+#### Chapter 33 (10:52:30)
+* VM scale out parrallization, spin up then down
 
 #### Chapter 34
 
-#### Chapter 35
+#### Chapter 35 
+* not being CIO
+* Bill's career plan
+* Sarah leaving
