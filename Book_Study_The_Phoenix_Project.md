@@ -281,7 +281,7 @@
 #### Chapter 30 (10:04:15)
 * visit to MRP plant
 * "inner Allspaw"
-* take time
+* takt time
 * find constraint, then look for way to automate
 * Ohno, Spear, Rother
 * Dev -> Ops -> QA -> Business = super tribe
