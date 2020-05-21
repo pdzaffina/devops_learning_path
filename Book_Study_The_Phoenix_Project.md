@@ -166,10 +166,11 @@
 * quitting over convictions
 
 #### Chapter 16
-
+<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
+-->
 
 ## Section 5: Chapters 17-21
 
@@ -248,11 +249,11 @@
 #### Chapter 26
 * marketing phoenix project reporting delayed until next year
 * planning horizon for IT projects greater than 12 months
-
+<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
-
+-->
 ## Section 7: Chapters 27-31
 
 ### *Discussion Questions*
