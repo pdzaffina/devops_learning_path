@@ -306,6 +306,7 @@
 
 #### Chapter 33 (10:52:30)
 * VM scale out parrallization, spin up then down
+* Starting to see benefits of cloud
 
 #### Chapter 34
 
