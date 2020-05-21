@@ -78,9 +78,11 @@
 * Four types of work pg 88 & 92
   1. Business Projects
 
+<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
+-->
 
 ## Section 3: Chapters 8-12
 
