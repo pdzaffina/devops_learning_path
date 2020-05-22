@@ -1,15 +1,9 @@
 ﻿# Book Study: The Unicorn Project
-## Exceprt 1
-## Section 1: Chapters 1-7, pages 6-113
 
-### *Discussion Questions*
-* blah
-
+## Section 1: Chapters 1-4
 ### *Themes*
-* blah
-
 ### *Key Takeaways*
-* blah
+### *Discussion Questions*
 
 #### Chapter 1
 * mistakes and entropy are a fact of life
@@ -49,9 +43,13 @@
   * get rid of loops entirely and use iterators instead pg 55
   * healthy software system is one that you can change at the speed you need, where people can contribute easily without jumping through hoops. pg 57
 
-## Excerpt 2
 #### Chapter 4
 * NSTR
+
+## Section 2: Chapters 5-8
+### *Themes*
+### *Key Takeaways*
+### *Discussion Questions*
 
 #### Chapter 5
 
@@ -77,12 +75,13 @@ in code and in organizations
   * Fourth: Psychological Safety
   * Fifth: Customer Focus
 
+<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
+-->
 
-## Expcerpt 3
-## Section 2: Chapters 8-?, pages 116-??
+## Section 3: Chapters 9-12
 
 ### *Discussion Questions*
 
@@ -107,7 +106,6 @@ a smooth flow of work ..."
     - "... if it hurts, do it less often ..." pg 159
 - to make it hurt less you have to merge **more** frequently pg 158
  
-## Excerpt 4
 #### Chapter 11
 - Contiunous intergration pg 181
 - Continuous deplyment pg 181
@@ -115,7 +113,10 @@ a smooth flow of work ..."
 
 #### Chapter 12
 - promotional items SKUs pg 183
-
+## Section 4: Chapters 13-16
+### *Themes*
+### *Key Takeaways*
+### *Discussion Questions*
 #### Chapter 13
 - whitespace deployments pg 202
   - like "dark launches"
@@ -131,17 +132,15 @@ a smooth flow of work ..."
 
 #### Chapter 16
 
+<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
-
-## Section 3: Chapters 17-26, pages 177-263
-
-### *Discussion Questions*
-
+-->
+## Section 5: Chapters 17-20
 ### *Themes*
-
 ### *Key Takeaways*
+### *Discussion Questions*
 
 #### Chapter 17
 
@@ -151,6 +150,10 @@ a smooth flow of work ..."
 
 #### Chapter 20
 
+## Section 6: Chapters 21-24
+### *Themes*
+### *Key Takeaways*
+### *Discussion Questions*
 #### Chapter 21
 
 #### Chapter 22
@@ -158,27 +161,27 @@ a smooth flow of work ..."
 #### Chapter 23
 
 #### Chapter 24
-
+## Section 7: Chapters 25-28
+### *Themes*
+### *Key Takeaways*
+### *Discussion Questions*
 #### Chapter 25
 
 #### Chapter 26
+<!--
 
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
-
-## Section 4: Chapters 27-35, pages 264-338
-
-### *Discussion Questions*
-
-### *Themes*
-
-### *Key Takeaways*
+-->
 
 #### Chapter 27
 
 #### Chapter 28
-
+## Section 8: Chapters 29-32
+### *Themes*
+### *Key Takeaways*
+### *Discussion Questions*
 #### Chapter 29
 
 #### Chapter 30
@@ -186,7 +189,10 @@ a smooth flow of work ..."
 #### Chapter 31
 
 #### Chapter 32
-
+## Section 7: Chapters 33-35
+### *Themes*
+### *Key Takeaways*
+### *Discussion Questions*
 #### Chapter 33
 
 #### Chapter 34
