@@ -1,17 +1,15 @@
 ﻿# Book Study: The Unicorn Project
-<<<<<<< HEAD
 ## Exceprt 1
 ## Section 1: Chapters 1-7, pages 6-113
 
-=======
-
-## Section 1: Chapters 1-4
-### *Themes*
-### *Key Takeaways*
->>>>>>> 2ca9eecf67e657afd8acf1a89353ee352e649aaf
 ### *Discussion Questions*
+* blah
 
+### *Themes*
+* blah
 
+### *Key Takeaways*
+* blah
 
 #### Chapter 1
 * mistakes and entropy are a fact of life
@@ -53,15 +51,8 @@
 
 ## Excerpt 2
 #### Chapter 4
-<<<<<<< HEAD
 * NSTR
 
-=======
-## Section 2: Chapters 5-8
-### *Themes*
-### *Key Takeaways*
-### *Discussion Questions*
->>>>>>> 2ca9eecf67e657afd8acf1a89353ee352e649aaf
 #### Chapter 5
 
 #### Chapter 6

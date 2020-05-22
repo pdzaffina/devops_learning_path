@@ -78,11 +78,9 @@
 * Four types of work pg 88 & 92
   1. Business Projects
 
-<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
 
 ## Section 3: Chapters 8-12
 
@@ -166,11 +164,10 @@
 * quitting over convictions
 
 #### Chapter 16
-<!--
+
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
 
 ## Section 5: Chapters 17-21
 
@@ -235,9 +232,6 @@
 * resource graph
 
 #### Chapter 24
-* meeting with John at bar
-* importance of honest feedback
-#### Chapter 25
 * meeting with Dick
 * managers measurement program
 * CFO questions
@@ -246,16 +240,17 @@
 
 * systems thinking 
 
+#### Chapter 25
 * fleet mgmt oil change analogy
 
 #### Chapter 26
 * marketing phoenix project reporting delayed until next year
 * planning horizon for IT projects greater than 12 months
-<!--
+
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
+
 ## Section 7: Chapters 27-31
 
 ### *Discussion Questions*
@@ -266,56 +261,26 @@
 
 #### Chapter 27
 * CIA triangle of data
-  * Confidentiality
-  * Integrity
-  * Availability
-#### Chapter 28 (9:25:45)
-* Shadow IT
-* Increased performance of group
-* Phoenix deployment #2
+  * confidentiality
+  * integrity
+  * availability
+#### Chapter 28
 
-#### Chapter 29 (9:47:24)
-* mtg w/ Steve re: John's recommendations
-* No reverse gear
-* Flow of work one way - "Single Piece Flow"
-* Faster cycle time, speed up release schedule
-  * when things are bad, do more of them to improve not less to avoid.
-  * like football practice or military training
-* SWAT team to do some features
+#### Chapter 29
 
-#### Chapter 30 (10:04:15)
-* visit to MRP plant
-* "inner Allspaw"
-* takt time
-* find constraint, then look for way to automate
-* Ohno, Spear, Rother
-* Dev -> Ops -> QA -> Business = super tribe
-* Eric Reis "Lean Startup"
+#### Chapter 30
 
-
-#### Chapter 31 (10:38:30)
-* Process mapping white board
-* Value Stream Map
-* Automating environment setups
+#### Chapter 31
 
 ## Section 8: Chapters 32-35
 ### *Discussion Questions*
 ### *Themes*
 ### *Key Takeaways*
 
-#### Chapter 32 (10:38:30)
-* decouple from Phoenix
-* open source db
-* how do you manage db sprawl
-* Brent secret mission
+#### Chapter 32
 
-#### Chapter 33 (10:52:30)
-* VM scale out parrallization, spin up then down
-* Starting to see benefits of cloud
+#### Chapter 33
 
 #### Chapter 34
 
-#### Chapter 35 
-* not being CIO
-* Bill's career plan
-* Sarah leaving
+#### Chapter 35
