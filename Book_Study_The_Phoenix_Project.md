@@ -34,8 +34,7 @@
 
 #### Chapter 4
 * “It’s amazing to me how handoffs between Development and IT Operations always get screwed up.” pg 49
-* *PZ's Ah Ha moment:* IT is critical to/ involved in many projects pg 49
-   * Duh!
+* IT is critical to/ involved in many projects pg 49
 * Development environment and production. Case for VMs/ containerization pg 52
 * Deadlines driving decisions pg 54 
    * symptom of poor scoping and poor risk management
@@ -101,13 +100,13 @@
   1. Changes pg 110
 ### *Discussion Questions*
 * Do you have a Value Stream MAp for your workflows?
-* What is the percent of chnges each week that fail or need to be defferred/ rescheduled?
+* What is the percent of changes each week that fail or need to be deferred/ rescheduled?
 
 #### Chapter 8
 * CAB Process:
   * **High Risk**, *"fragile"* - changes must be authorized by CAB before being scheduled and implemented. pg 100
   * **Medium Risk**, *"messy middle"* - change submitter has responsibility and accountability for consulting and getting approval from people potentially affected. Once arranged, they submit the change to the CAB for review and scheduling. pg 102
-  * **Low Risk**, *"standard"* - changes we've done many times successfully are preapproved. They still need to be submitted, but can be scheduled without the CAB. pg 102
+  * **Low Risk**, *"standard"* - changes we've done many times successfully are preapprove. They still need to be submitted, but can be scheduled without the CAB. pg 102
 
 #### Chapter 9
 * Dealing with a SEV 1 incident pg 105
@@ -150,7 +149,7 @@
 * Business and IT need to work together
 ### *Key Takeaways*
 * IT exists to satisfy business requirements.
-  * Can't lways say no.
+  * Can't always say no.
 * "Deciding what not to do is just as important as deciding what to do."
 ### *Discussion Questions*
 * As BI "developers" we need to be aware of what we get the ops people into.
@@ -162,7 +161,7 @@
   * Massive PCI issue
 
 #### Chapter 14
-* Business holds IT resposible for finding solutions not just saying no.
+* Business holds IT responsible for finding solutions not just saying no.
   >> “I need the business to tell me it’s no longer being held hostage by you IT guys. This has been the running complaint the entire time I’ve been CEO. IT is in the way of every major initiative. Meanwhile, our competitors pull away from us, leaving us in the dust. Dammit, we can’t even take a crap without IT being in the way.”
 * Marketing Access Database program
   >> a combination of the need to deliver needed features to market, forcing us to take shortcuts, which are causing ever-worsening deployments.
@@ -243,7 +242,7 @@
 * Improvement kata
 * IT project types
 * Utilization graph points to why wait times can be so long
-* Fleet mgmt oil change analogy
+* Fleet management oil change analogy
 ### *Discussion Questions* 
 * What are our businesses kpis? Do we have a chart or slide like Dick's
 
@@ -253,7 +252,7 @@
 * color coding change board 
   * Green - it internal 20%
   * purple - top 5 business projects
-  * yellow - not prioritity
+  * yellow - not priority
   * pink sticky for stuck
 
 * It project types
@@ -261,7 +260,7 @@
   * Vendor upgrades and patching
   * support internal projects
   * audit and security work
-  * datacenter work
+  * data center work
 
 * three categories
   * increase capacity to constraint
@@ -283,7 +282,7 @@
   * describe a good day and bad day
   * what are goals, objectives, and measurements for the year
 * systems thinking 
-* fleet mgmt oil change analogy
+* fleet management oil change analogy
 
 #### Chapter 26
 * marketing phoenix project reporting delayed until next year
@@ -343,7 +342,7 @@
 * IT critical competency for all senior business leaders
 ### *Key Takeaways*
 * Small little teams (2 pizza team) to rapidly develop features
-* Lossely coupled architecture better for flexible development
+* Loosely coupled architecture better for flexible development
 * VM architecture to help scale out and up
 ### *Discussion Questions*
 * Can you name any senior business leaders in our organization with an IT background?
@@ -360,7 +359,7 @@
 
 #### Chapter 34
 * Trouble at Thanksgiving goes much more smoothly
-* Ability to rollback fetures
+* Ability to rollback features
 * Unicorn team moving to continuous delivery
 
 #### Chapter 35 
