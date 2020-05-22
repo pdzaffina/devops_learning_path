@@ -17,7 +17,6 @@
 * What really resonated with you?
 * Do you know any Brent's?
 
-
 #### Chapter 1
 * IT needs to work like plumbing
 * 2nd and 3rd order effects of critical system failure
@@ -45,8 +44,15 @@
 
 ## Section 2: Chapters 5-7
 ### *Themes*
+* Theory of Constraints (TOC)
+* We need to see our selves
+* Are we doing the *right things*?
+* Are we doing *things right*?
 ### *Key Takeaways*
+* Critical to have an understanding of what work we're doing and where is it coming from
 ### *Discussion Questions*
+* Where do we keep our master work list?
+* Can you identify a constraint in your current workflow?
 #### Chapter 5
 * Old servers barely hanging on pg 68
 * Brent is bottleneck according to Theory of Constraints pg 69
@@ -84,8 +90,18 @@
 
 ## Section 3: Chapters 8-12
 ### *Themes*
+* IT Value Stream
+* Change control process
+* Link between plant floor management and IT Operations
 ### *Key Takeaways*
+* How to deal with a constraint to the system
+* Four types of work
+  1. Business Projects pg 92
+  1. IT Internal Projects pg 109
+  1. Changes pg 110
 ### *Discussion Questions*
+* Do you have a Value Stream MAp for your workflows?
+* What is the percent of chnges each week that fail or need to be defferred/ rescheduled?
 
 #### Chapter 8
 * CAB Process:
@@ -105,7 +121,7 @@
   1. Changes pg 110
 
 #### Chapter 10
-* Brent the bottlenecku
+* Brent the bottleneck
   * Isolate the constraint
   * Put safe guards in place to protect the constrained resource
     * "... create a resource pool of level 3 engineers to handle the escalations, but keep Brent out of the pool. The level 3s would be responsible for resolving all incidents to closure, and would be the only people who can get access to Brent.
@@ -115,14 +131,30 @@
 * "Every time that we let Brent fix something that none of can replicate, Brent gets a little smarter,nd the entire system gets dumber." pg 116
 * 
 #### Chapter 11
+* Continued development of CAB process
+* Need to limit work in the system
+* Color codeing change cards if they involve bottle neck
+* Work in Process (WIP) of IT work
 
 #### Chapter 12
+* Phoenix project deployment day
+* Inconsistent environments
+* IT working all hours
+* Database migration scripts failures
+* Impact to retail store POS's
+* Request to delay Phoenix launch
+* Credit card security failure
 
 ## Section 4: Chapters 13-16
 ### *Themes*
+* Business and IT need to work together
 ### *Key Takeaways*
+* IT exists to satisfy business requirements.
+  * Can't lways say no.
+* "Deciding what not to do is just as important as deciding what to do."
 ### *Discussion Questions*
 * As BI "developers" we need to be aware of what we get the ops people into.
+* Do we as IT have a good idea of how we prioritize business projects?
 
 #### Chapter 13
 * Phoenix deployment
@@ -161,6 +193,9 @@
 * quitting over convictions
 
 #### Chapter 16
+* Invoices incident
+* Dealing with a Sev-1 incident
+* Bill resigns
 <!--
 <div style="page-break-after: always;"></div>
 
@@ -168,16 +203,24 @@
 -->
 ## Section 5: Chapters 17-21
 ### *Themes*
+* Building trust
+* Using Lean techniques to manage IT
 ### *Key Takeaways*
+* Project freeze
+* Work centers for IT
 ### *Discussion Questions*
+* Do we have anything like a Bill of Resources or Bill of Materials?
+
 
 #### Chapter 17
-* Bill resigns
+* Making up with Steve
 
 #### Chapter 18
- 
+* mtg with CEO and all IT leaders
+  * Steve's background
 #### Chapter 19
 * mtg with CEO and all IT leaders
+  * Other leader's backgrounds
 * Project freeze
 #### Chapter 20
 * after project freeze, those not relying on constraint can be released
@@ -186,7 +229,7 @@
   * bill of resources, and routing 
   * work instructions
 * utilization is hrs busy / hrs avail
-  * 50/50 wait 1 unit vs 90/10 wait 9 units, vs 99/1 wait 99 units
+  * **50/50 wait 1 unit vs 90/10 wait 9 units, vs 99/1 wait 99 units**
 
 #### Chapter 21
 * audit meeting
@@ -195,8 +238,14 @@
 
 ## Section 6: Chapters 22-26
 ### *Themes*
+* IT needs to have a good understanding of the business measures
 ### *Key Takeaways*
-### *Discussion Questions*
+* Improvement kata
+* IT project types
+* Utilization graph points to why wait times can be so long
+* Fleet mgmt oil change analogy
+### *Discussion Questions* 
+* What are our businesses kpis? Do we have a chart or slide like Dick's
 
 #### Chapter 22
 * improvement kata
@@ -208,7 +257,7 @@
   * pink sticky for stuck
 
 * It project types
-  * Replace fragile
+  * Replace fragile infrastructure
   * Vendor upgrades and patching
   * support internal projects
   * audit and security work
@@ -231,7 +280,7 @@
 * meeting with Dick
 * managers measurement program
 * CFO questions
-  * desxrive a good day and bad day
+  * describe a good day and bad day
   * what are goals, objectives, and measurements for the year
 * systems thinking 
 * fleet mgmt oil change analogy
@@ -246,8 +295,15 @@
 -->
 ## Section 7: Chapters 27-31
 ### *Themes*
+* Using Lean tools to improve IT operations
 ### *Key Takeaways*
+* Shadow IT
+* Flow of work one way - "Single Piece Flow"
+* Find constraint, then look for way to automate
 ### *Discussion Questions*
+* Do we use process mapping to visualize our workflows?
+* What are our top three critical workflows?
+* Do we have scripts or something like an automatic build system?
 
 #### Chapter 27
 * CIA triangle of data
@@ -284,8 +340,13 @@
 
 ## Section 8: Chapters 32-35
 ### *Themes*
+* IT critical competency for all senior business leaders
 ### *Key Takeaways*
+* Small little teams (2 pizza team) to rapidly develop features
+* Lossely coupled architecture better for flexible development
+* VM architecture to help scale out and up
 ### *Discussion Questions*
+* Can you name any senior business leaders in our organization with an IT background?
 
 #### Chapter 32 (10:38:30)
 * decouple from Phoenix
@@ -298,6 +359,9 @@
 * Starting to see benefits of cloud
 
 #### Chapter 34
+* Trouble at Thanksgiving goes much more smoothly
+* Ability to rollback fetures
+* Unicorn team moving to continuous delivery
 
 #### Chapter 35 
 * not being CIO
