@@ -66,8 +66,11 @@
   * transactions per sec
 * Laughing out loud at Sarah
   * discussing why instead of how
+* Redshirts and Bridge crew analogy
+* At end of day going to desk and seeing dev working on features even though the build is failing and they arecin crisis mode.
+* Binder from Kurt 80 pgs of documentation
 
-
+<!--
 ## Section 2: Chapters 5-8
 ### *Themes*
 ### *Key Takeaways*
@@ -97,11 +100,10 @@ in code and in organizations
   * Fourth: Psychological Safety
   * Fifth: Customer Focus
 
-<!--
+
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
 
 ## Section 3: Chapters 9-12
 
@@ -154,11 +156,10 @@ a smooth flow of work ..."
 
 #### Chapter 16
 
-<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
+
 ## Section 5: Chapters 17-20
 ### *Themes*
 ### *Key Takeaways*
@@ -190,12 +191,11 @@ a smooth flow of work ..."
 #### Chapter 25
 
 #### Chapter 26
-<!--
+
 
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
 
 #### Chapter 27
 
@@ -220,3 +220,4 @@ a smooth flow of work ..."
 #### Chapter 34
 
 #### Chapter 35
+-->
