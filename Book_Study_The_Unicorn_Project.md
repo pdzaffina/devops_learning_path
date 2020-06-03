@@ -2,8 +2,21 @@
 
 ## Section 1: Chapters 1-4
 ### *Themes*
+* Developer on boarding 
+* Developer productivity
+* Managing through a crisis
+
 ### *Key Takeaways*
+* Must have a well documented environment to enable day one builds for new devs
+* Proper documentation as important as code to make things work
+* State of flow concept like "being in the zone"
+* Working on legacy code can be difficult, but is a constant. Spend time upfront trying to make decis ISP one knowing you'll have to redo.
+
 ### *Discussion Questions*
+* How was your first day at current job?
+* Describe our developer environments?
+* What is the current build process?
+* What area of legacy code have you worked on? How was it? What steps do we take to ensure it's easy to work on legacy code?
 
 #### Chapter 1
 * mistakes and entropy are a fact of life
@@ -12,7 +25,7 @@
 * *"... Leaders to buffer their people from all the political and bureaucratic insanity..."* pg 10
 * *"...you know you're in real trouble when even the intern feels sorry for you..."* pg 12
 * Long hours symptom of something going wrong
-* *"...when people can;t get their builds going consistently , disaster is usually around the corner..." pg 17
+* *"...when people can't get their builds going consistently, disaster is usually around the corner..." pg 17
 * Create link page to tools pg 18
   
 #### Chapter 2
@@ -44,7 +57,16 @@
   * healthy software system is one that you can change at the speed you need, where people can contribute easily without jumping through hoops. pg 57
 
 #### Chapter 4
-* NSTR
+* Phoenix Proj still on for deployment
+* Frantic activity
+* Phoenix never deployed before
+* No release manager assigned
+* Harry Potter reference, Wes is like Big Malfoy
+* Capacity planning for server resources
+  * transactions per sec
+* Laughing out loud at Sarah
+  * discussing why instead of how
+
 
 ## Section 2: Chapters 5-8
 ### *Themes*
