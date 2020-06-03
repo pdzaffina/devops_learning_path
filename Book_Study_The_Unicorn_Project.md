@@ -43,7 +43,7 @@
 * *"...It felt bad enough to be sitting on her butt getting so little done this week, despite her very best efforts, but it feels far worse to have to lie about it..."* pg 30
 * *Organizational whiplash* pg 31
 * *"...when engineers think of “the customer” in the abstract instead of as a real person, you rarely get the right outcomes..."* pg 32
-
+* All hands townhall meeting
 
 #### Chapter 3
 * features important because you can see. Builds important too. Devs can't be productive without a great build, integration, and test process. pg 37
