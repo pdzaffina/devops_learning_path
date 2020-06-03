@@ -69,6 +69,7 @@
 * Redshirts and Bridge crew analogy
 * At end of day going to desk and seeing dev working on features even though the build is failing and they arecin crisis mode.
 * Binder from Kurt 80 pgs of documentation
+* Informal meeting at "The Dockside Bar"
 
 <!--
 ## Section 2: Chapters 5-8
