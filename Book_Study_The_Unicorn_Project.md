@@ -71,17 +71,38 @@
 * Binder from Kurt 80 pgs of documentation
 * Informal meeting at "The Dockside Bar"
 
-<!--
 ## Section 2: Chapters 5-8
 ### *Themes*
 ### *Key Takeaways*
 ### *Discussion Questions*
 
 #### Chapter 5
+* Dockside bar hangout
+* "Rebel Alliance" - bypassing normal org structure
+* Characters
+  * Dave - Dev team lead
+    * "Never Asks for permission..." -  not advocating that.
+    * can't do anything without 20 meetings
+  * Shannon - InfoSec
+    * Security Engineer
+    * Automated security testing
+    * ran Red Team exercises last year
+  * Brent
+    * Infastructure expert
+    * Maxine documented all the ENV variables
+  * Dwayne - Senior DB and Storage Eng from Ops
+    * Bowling shirt
+  * Adam - Test Engineer
+    * Infrastructure expert
+    * Automate the legacy test suite
+
+  
+
+
 
 #### Chapter 6
-1. Continuous builds pg 99
-1. Automated testing pg 99
+* Continuous builds pg 99
+* Automated testing pg 99
 
 #### Chapter 7
 1. code deployment lead time pg 106
@@ -101,7 +122,9 @@ in code and in organizations
   * Fourth: Psychological Safety
   * Fifth: Customer Focus
 
+#### Chapter 8
 
+<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
