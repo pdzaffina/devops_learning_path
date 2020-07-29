@@ -105,8 +105,7 @@
   * Up 2 levels, over 2 levels, down 2 levels just to talk to an engineer 
 * "You can't do anything without first convincing a bunch of steering committees and architects or having to fill out a bunch of forms or work
 with three or four different teams who each have their own priorities.
-Everything is by committee. No one can make decisions, and implement-
-ing even the smallest thing seems to require consensus from everyone."
+Everything is by committee. No one can make decisions, and implementing even the smallest thing seems to require consensus from everyone."
 * PRD - Product Requirements Document
   * Still make sense? We can prototype faster
   * balanced approach - helps to clarify BU thinking
@@ -121,13 +120,6 @@ ing even the smallest thing seems to require consensus from everyone."
   * Share intel on who needs help and others to recruit
   * Share something learned lately or new technologies that could change the game
   
-  
-
-
-  
-
-
-
 #### Chapter 6
 * Continuous builds pg 99
 * Automated testing pg 99
@@ -175,7 +167,6 @@ in code and in organizations
   * 4 late nights in a row
   * lots of terminal windows open
     * typed command into wrong terminal window
-    
 * Alcoa saftey zero deaths example
 
 
