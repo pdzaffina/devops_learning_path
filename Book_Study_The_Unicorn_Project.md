@@ -133,13 +133,13 @@ Everything is by committee. No one can make decisions, and implementing even the
 1. code deployment lead time pg 106
 1. code deployment frequency pg 106
 1. time to resolve problems pg 106
-"... are predictive of software delivery, operational perfromance, and organizational performance...
+* "... are predictive of software delivery, operational perfromance, and organizational performance...
 they correlate with burnout, employee engagement, and more..." pg 106
-".. simplicity enable locality..." pg 106
-locality = loosely coupled
-in code and in organizations
-*improvement* of daily work **>** daily work itself pg 107
-"complexity debt" pg 108
+* ".. simplicity enable locality..." pg 106
+  * locality = loosely coupled
+    * in code and in organizations
+* *improvement* of daily work **>** daily work itself pg 107
+* "complexity debt" pg 108
 * Five Ideals pg 108-110
   * First: Locality and Simplicity
   * Second: Focus, Flow, Joy
