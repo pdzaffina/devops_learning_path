@@ -73,7 +73,12 @@
 
 ## Section 2: Chapters 5-8
 ### *Themes*
+* Working in self organizing teams
+* Safety with complex systems
 ### *Key Takeaways*
+* Physcological Safety
+* Informal teams
+* Five Ideals
 ### *Discussion Questions*
 1. Product Requirements Document - Are these still necessary?
 1. Can you explain the "Project Funding Model"
