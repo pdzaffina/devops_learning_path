@@ -75,6 +75,9 @@
 ### *Themes*
 ### *Key Takeaways*
 ### *Discussion Questions*
+1. Product Requirements Document - Are these still necessary?
+1. Can you explain the "Project Funding Model"
+1. What do you think of the intersperal of the board member emails as a way to show the background business discussions?
 
 #### Chapter 5
 * Dockside bar hangout
@@ -95,6 +98,31 @@
   * Adam - Test Engineer
     * Infrastructure expert
     * Automate the legacy test suite
+* Cloud strategy for migration of DBs to open source DBs.
+  * Cost savings, better relationship w/ vendor
+* Disatisfaction with beuracracy
+* "The square"
+  * Up 2 levels, over 2 levels, down 2 levels just to talk to an engineer 
+* "You can't do anything without first convincing a bunch of steering committees and architects or having to fill out a bunch of forms or work
+with three or four different teams who each have their own priorities.
+Everything is by committee. No one can make decisions, and implement-
+ing even the smallest thing seems to require consensus from everyone."
+* PRD - Product Requirements Document
+  * Still make sense? We can prototype faster
+  * balanced approach - helps to clarify BU thinking
+* "Red Shirts" type analogy
+* Everyone is the custodian of customer's data.
+* "...we can only win by innovating and understanding our customers, whcich we can only do by mastering data."
+* Project funding model a big problem
+* Data analytics group from marketing who needs help
+* Phoenix project and procurement issues make it an emergency
+  * Sound familiar?
+* two agenda items
+  * Share intel on who needs help and others to recruit
+  * Share something learned lately or new technologies that could change the game
+  
+  
+
 
   
 
@@ -123,6 +151,33 @@ in code and in organizations
   * Fifth: Customer Focus
 
 #### Chapter 8
+* Data Hub team
+  * part of a message bus system
+* Kurt's description of manager's job: "listen, do whatever [your employees] need [you] to do to help make [them] successful, and remove any obstacles in [their] way"
+* "Software is like a city, constantly undergoing change, needing renovations and repair."
+* "heisenbugs" = act of observation changes the nature of reality itself
+* Maxine's use of functional programming concepts to fix bug pg. 121-122
+  * example of First Ideal - Locality and Simplicity
+* "Being able to test and push code to production is more productive, makes for happier customers, creates accountability of code quality to the people who write it, and also makes the work more joyful and rewarding."
+* extended warranty feature takes too many teams to get it done. Not a "two-pizza" team
+* not able to see production logs
+* Sev2 Data Hub issue really related to internal networking issue
+* "...we can't be the people with a solution, peddling them to people who don't know they have a problem."
+* Annecdotes about tech giants and feature freezes to fix tech debt
+* Nokia killed by tech debt
+* "Technical debt is inherently neither good nor bad - it happens because in our daily work we are always making trade-off decisions" pg 131
+* working with eigth other teams just to get things done
+* Toyota andon cord example
+* "... a bad system will beat a good person everytime..." - W. Edwards Deming
+* increasing "coordination costs" result in higher costs of delay
+* General Stanley McChrystal decentralized decision making example for Iraq
+* Example of overwaorked engineer
+  * 4 late nights in a row
+  * lots of terminal windows open
+    * typed command into wrong terminal window
+    
+* Alcoa saftey zero deaths example
+
 
 <!--
 <div style="page-break-after: always;"></div>
