@@ -10,7 +10,7 @@
 * Must have a well documented environment to enable day one builds for new devs
 * Proper documentation as important as code to make things work
 * State of flow concept like "being in the zone"
-* Working on legacy code can be difficult, but is a constant. Spend time upfront trying to make decis ISP one knowing you'll have to redo.
+* Working on legacy code can be difficult, but is a constant. Spend time upfront trying to make decisions knowing you'll have to redo.
 
 ### *Discussion Questions*
 * How was your first day at current job?
