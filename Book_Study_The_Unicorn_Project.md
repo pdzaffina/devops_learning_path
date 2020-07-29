@@ -163,7 +163,7 @@ in code and in organizations
 * "... a bad system will beat a good person everytime..." - W. Edwards Deming
 * increasing "coordination costs" result in higher costs of delay
 * General Stanley McChrystal decentralized decision making example for Iraq
-* Example of overwaorked engineer
+* Example of overworked engineer
   * 4 late nights in a row
   * lots of terminal windows open
     * typed command into wrong terminal window
