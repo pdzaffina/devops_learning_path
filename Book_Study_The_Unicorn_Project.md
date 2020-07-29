@@ -150,7 +150,7 @@ they correlate with burnout, employee engagement, and more..." pg 106
 #### Chapter 8
 * Data Hub team
   * part of a message bus system
-* Kurt's description of manager's job: "listen, do whatever [your employees] need [you] to do to help make [them] successful, and remove any obstacles in [their] way"
+* Kurt's description of **manager's job:** "listen, do whatever [your employees] need [you] to do to help make [them] successful, and remove any obstacles in [their] way"
 * "Software is like a city, constantly undergoing change, needing renovations and repair."
 * "heisenbugs" = act of observation changes the nature of reality itself
 * Maxine's use of functional programming concepts to fix bug pg. 121-122
@@ -173,9 +173,10 @@ they correlate with burnout, employee engagement, and more..." pg 106
   * lots of terminal windows open
     * typed command into wrong terminal window
 * Alcoa saftey zero deaths example
+* functional programming pg 122
+* name, blame, and shame pg 136
+* "...every incident is a learning opportunity, an unplanned investment that was made without our consent." pg 137
 
-
-<!--
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
@@ -188,10 +189,6 @@ they correlate with burnout, employee engagement, and more..." pg 106
 
 ### *Key Takeaways*
 
-#### Chapter 8
-* functional programming pg 122
-* name, blame, and shame pg 136
-* "...every incident is a learning opportunity, an unplanned investment that was made without our consent." pg 137
 #### Chapter 9
 - Testind Day
 - throwing a party for QA
@@ -212,6 +209,8 @@ a smooth flow of work ..."
 
 #### Chapter 12
 - promotional items SKUs pg 183
+
+<!--
 ## Section 4: Chapters 13-16
 ### *Themes*
 ### *Key Takeaways*
