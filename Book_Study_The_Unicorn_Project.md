@@ -183,29 +183,43 @@ they correlate with burnout, employee engagement, and more..." pg 106
 
 ## Section 3: Chapters 9-12
 
-### *Discussion Questions*
-
 ### *Themes*
 
 ### *Key Takeaways*
 
+### *Discussion Questions*
+
 #### Chapter 9
-- Testind Day
+- Testing Day
+  - Long testing process. Possibly next week before find out results.
+  - If all goes well 7 weeks until changes are live in production. 2 weeks for QA 1, then another 2 weeks for QA 2, then 3 weeks for Ops to incorporate.
+  - "Work is not fun and full of joy, like I know it should be. There is no flow of features, there is no feedback, and there certainly isn’t any learning..."
 - throwing a party for QA
+- QAs pain points
+  - waiting for environments
+  - environments not completely cleaned up
+  - inability to determine whether problems were caused by errors in the code or something wrong with the environment
+- Maxine going to Purna's desk to watch the work flow
+- Roy the QA manager is very suspicious
+- "... not just to do the right things, but to do the right things right"
 
 #### Chapter 10
 - code merge compared to writing a Hollywood script in isolation pg 156
 - merge code once per day pg 157
-  - "... small batch sizes, like in manufacturing, create
-a smooth flow of work ..."
+  - "... small batch sizes, like in manufacturing, create a smooth flow of work ..."
 - _**bad idea**_
     - "... if it hurts, do it less often ..." pg 159
 - to make it hurt less you have to merge **more** frequently pg 158
+- Jared the source code manager (SCM).
+- "here at Parts Unlimited, doctors aren’t allowed to touch the patient. Well, except if there’s a P1 ticket open. But if the patient isn’t on the verge of death, like right now, apparently only Jared can touch the patient. And then Jared just does whatever the doctors tell him to, because, you know, doctors can’t touch the patient. Jared isn’t a doctor."
+- " I think I know the real reason we aren’t allowed to push our changes … they don’t trust us. Doesn’t that bother you?! How can Jared know more about making changes than the developers who wrote them?"
+- "This is the opposite of the Third Ideal, where instead of improving the processes we work within, we blindly follow them, she thinks. And now the process has fully imprisoned us, sucking out all the joy from our daily work, pushing us ever further away from the Second Ideal."
  
 #### Chapter 11
 - Contiunous intergration pg 181
-- Continuous deplyment pg 181
-- colocateing DEV and QA pg 181
+- Continuous deployment pg 181
+- co-locating DEV and QA pg 181
+- TEP-LARB
 
 #### Chapter 12
 - promotional items SKUs pg 183
