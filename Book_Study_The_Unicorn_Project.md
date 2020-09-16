@@ -224,7 +224,6 @@ they correlate with burnout, employee engagement, and more..." pg 106
 #### Chapter 12
 - promotional items SKUs pg 183
 
-<!--
 ## Section 4: Chapters 13-16
 ### *Themes*
 ### *Key Takeaways*
@@ -234,17 +233,50 @@ they correlate with burnout, employee engagement, and more..." pg 106
   - like "dark launches"
   - ie. adding a couple of blank lines to the end of HTML or config files
   - in theory this wouldn't change functionality in any way
+- deployment of DataHub into production
 - questions to ask when trouble shooting with a team pg 203
   - "Good hypothesis, Brent. What are you thinking?"
   - "How can we test your idea?" 
 - blamless postmortem pg 208
+  - inputs:
+    - production telemetry
+    - logs
+    - chat rooms
+  1. Assemble Timeline
+  2. Discuss issues that occurred
+  3. List actions to fix
+- Promotions team meeting
+  - customer personas pg 212-213
+- Working in the business example - Maxine working at a store
+  - observing processes
+
 #### Chapter 14
-- customer personas pg 212-213
+- "This is not a story about small beating large; it’s fast beats slow."
+- Second Town Hall meeting
+- Meeting to go all in on NoSQL
+>> The most difficult part was not the mechanics of importing the data from twenty different business systems. Instead, it was trying to create a unified vocabulary and taxonomy that they could use, because almost every business system had different names for similar things.
+>>
+>> Physical stores have five different definitions of in-store sales, including from a company acquired decades ago. There are six different ways that products are catalogued. Product categories and prices don’t line up. The business rules around pricing and promotion are exercises in forensic archaeology. They pulled in business analysts from across the company to help make sense of it and make decisions about how they should be represented.
+- Demo Day
+- " the queries the data scientists are building are a complete mismatch to what they’ve built Narwhal for. Narwhal is stellar at handling API requests from all the various teams across the company, but now they’re learning that it’s spectacularly not great for what the Analytics teams need to do."
+- " It takes the Data Warehouse team four months to get twenty lines of SQL from Dev to QA to Production. And every time they do, reports break or show incorrect data."
+- Apache Spark style big data and compute platform
+- 2004 Google Map/Reduce research paper
+
 #### Chapter 15
+- one percent test of marketing campaign
+- pushing out a oneline fix 1hr before major deployment
+- use of telemetry
+  - monitoring order funnel
+- “Thundering herd problem,” Wes mutters, referring to when simultaneous client retries end up killing a server. “We can’t do anything on the back end. How do we get all the clients to back off on the retries?”
+“We can’t change the mobile apps, but we can get the e-commerce servers to wait longer before they retry,”
+- Black Friday launch
+  - API call to USPS address shipping causing crash. no service too small
 
 #### Chapter 16
 
 <div style="page-break-after: always;"></div>
+<!--
 
 # Book Study: The Phoenix Project
 
