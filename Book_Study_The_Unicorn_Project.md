@@ -228,6 +228,11 @@ they correlate with burnout, employee engagement, and more..." pg 106
 ### *Themes*
 ### *Key Takeaways*
 ### *Discussion Questions*
+- How does the idea of Horizon 1, 2, 3 businesses apply to IT? 
+  - Do we have Horizon 3 as R&D?
+  - Horizon 2 as the growth technology?
+  - Horizn 1 as tried and true legacy?
+  
 #### Chapter 13
 - whitespace deployments pg 202
   - like "dark launches"
@@ -274,6 +279,28 @@ they correlate with burnout, employee engagement, and more..." pg 106
   - API call to USPS address shipping causing crash. no service too small
 
 #### Chapter 16
+- redshirts breifing the bridge crew
+- two most important metrics, employee engagement and customer satisfaction
+- "more teams to explore the most promising business ideas, to find the next winner"
+- one out of every three strategic ideas has a positive result, and only a third actually move the needle in a material way
+- "We need a group that is dedicated and empowered to explore a broad range of business ideas that take advantage of our unique position in the marketplace, to quickly make bets, and then explore and validate them"
+- Horizon 1, 2, and 3 businesses
+  - Horizon 1 = cash cow
+    - the customer, business, and operational models are well-known and predictable
+  - Horizon 2 = represent the future of the company
+    - may introduce the company’s capabilities to new customers, adjacent markets, or with different business models
+    - may not be profitable, but this is where we find higher-growth areas.     - become the next generation of Horizon 1 businesses
+    - this transition happens when your Horizon 2 business revenue hits $100 million.
+    - come from Horizon 3
+  - Horizon 3 = focus is on velocity of learning and having a broad pool of ideas to explore
+    - name of the game is to prototype ideas and to answer as quickly as possible the three questions of market risk, technical risk, and business model risk: Does the idea solve a real customer need? Is it technically feasible? And is there a financially feasible engine of growth? 
+    - If the answer is no to any of them, it’s time to pivot or kill the idea.
+    - If the answer is yes, then the idea is continually developed until it earns the right to graduate to Horizon 2, where the business builders take over
+  - Horizon 1 and Horizon 3 are often in conflict with each other
+  - "Left unchecked, Horizon 1 leaders will consume all the resources of the company. They will note correctly that they are the lifeblood of the company, but that’s only true in the short term. There is an instinct to maximize profitability and take cash out of the business instead of reinvesting it. This is the ‘manage to value’ thesis and is the opposite of ‘manage to growth.’ If you want growth, Steve, you must protect Horizons 2 and 3, and any learnings generated there must be spread throughout the company."
+
+- "If you’re first to market, you will capture fifty percent of the revenue that the entire product category will ever yield. Second place will capture twenty-five percent, and third place will get fifteen percent. For any later entrants, it will surely have been a complete waste of time and money"
+- Almost all business investment now involves software. Means we must elevate developer productivity
 
 <div style="page-break-after: always;"></div>
 <!--
