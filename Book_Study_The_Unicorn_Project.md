@@ -315,7 +315,7 @@ they correlate with burnout, employee engagement, and more..." pg 106
 #### Chapter 17
 - Project thinking vs. product thinking
 - Refactoring legacy code using tests to isolate and then work through the issues
-- Hoare principle: “There are two ways to write code: write code so simple there are obviously no bugs in it, or write code so complex that there are no obvious bugs in it.”
+  - Hoare principle: “There are two ways to write code: write code so simple there are obviously no bugs in it, or write code so complex that there are no obvious bugs in it.”
 - The opposite of technical debt. If they could make developers a little more productive all the time, it would always pay off in spades.
 - An internal platform that they must manage like a product, not just as a project. It’s never done, if they want to keep their customers happy.
 - This type of work seems so low-value, especially when compared to the opportunity cost of the work they should be doing, which is figuring out how to blaze the digital future... Their job was to build code, not muck with the actual hardware that the code runs on.
