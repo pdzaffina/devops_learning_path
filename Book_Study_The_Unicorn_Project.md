@@ -303,7 +303,7 @@ they correlate with burnout, employee engagement, and more..." pg 106
 - Almost all business investment now involves software. Means we must elevate developer productivity
 
 <div style="page-break-after: always;"></div>
-<!--
+
 
 # Book Study: The Phoenix Project
 
@@ -313,12 +313,33 @@ they correlate with burnout, employee engagement, and more..." pg 106
 ### *Discussion Questions*
 
 #### Chapter 17
+- Project thinking vs. product thinking
+- Refactoring legacy code using tests to isolate and then work through the issues
+- Hoare principle: “There are two ways to write code: write code so simple there are obviously no bugs in it, or write code so complex that there are no obvious bugs in it.”
+- The opposite of technical debt. If they could make developers a little more productive all the time, it would always pay off in spades.
+- An internal platform that they must manage like a product, not just as a project. It’s never done, if they want to keep their customers happy.
+- This type of work seems so low-value, especially when compared to the opportunity cost of the work they should be doing, which is figuring out how to blaze the digital future... Their job was to build code, not muck with the actual hardware that the code runs on.
+- Core vs Context
+- “Cores are the central competencies of the organization. These are things that customers are willing to pay for and what investors reward” 
+- “Context is everything else. It’s the cafeterias, shuttles between buildings, and the thousands of things companies must do to operate. They’re often mission-critical, such as HR, payroll, and email. But our customers do not pay us for the great payroll services we provide to our employees.
+- Chief Power Officer
+- “A hundred years ago, most large factories had a CPO—a chief power officer—who ran the electricity generation processes. It was one of the most important roles in manufacturing, because no electricity, no production. It was a Core process,” he says. “But that role has disappeared entirely. Electricity has become infrastructure that you buy from a utility company. It is interchangeable, and you choose suppliers primarily on price. There is rarely a competitive advantage to generating your own power. It is now merely Context, no longer Core. You don’t want to be the organization that has a large staff providing internal power generation.
+- Clay Christiansen once stated, one keeps what is ‘not good enough’ and outsources what is ‘more than good enough,’
 
 #### Chapter 18
+- Innovation Council
+- Kurt being fired
 
 #### Chapter 19
+- Teaching Thursdays, two hrs where everyone teaches or learns
+- Destroying servers with sledge hammers
+- Engine sensor idea
+- Data center with grave stones
 
 #### Chapter 20
+- Everything is awesome!
+
+<!--
 
 ## Section 6: Chapters 21-24
 ### *Themes*
