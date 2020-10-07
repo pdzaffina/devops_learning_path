@@ -322,9 +322,9 @@ they correlate with burnout, employee engagement, and more..." pg 106
 - Core vs Context
   - “Cores are the central competencies of the organization. These are things that customers are willing to pay for and what investors reward” 
   - “Context is everything else. It’s the cafeterias, shuttles between buildings, and the thousands of things companies must do to operate. They’re often mission-critical, such as HR, payroll, and email. But our customers do not pay us for the great payroll services we provide to our employees.
-- Chief Power Officer
-  - “A hundred years ago, most large factories had a CPO—a chief power officer—who ran the electricity generation processes. It was one of the most important roles in manufacturing, because no electricity, no production. It was a Core process,” he says. “But that role has disappeared entirely. Electricity has become infrastructure that you buy from a utility company. It is interchangeable, and you choose suppliers primarily on price. There is rarely a competitive advantage to generating your own power. It is now merely Context, no longer Core. You don’t want to be the organization that has a large staff providing internal power generation.
-- Clay Christiansen once stated, one keeps what is ‘not good enough’ and outsources what is ‘more than good enough,’
+  - Clay Christiansen once stated, one keeps what is ‘not good enough’ and outsources what is ‘more than good enough,’
+  - Chief Power Officer
+    - “A hundred years ago, most large factories had a CPO—a chief power officer—who ran the electricity generation processes. It was one of the most important roles in manufacturing, because no electricity, no production. It was a Core process,” he says. “But that role has disappeared entirely. Electricity has become infrastructure that you buy from a utility company. It is interchangeable, and you choose suppliers primarily on price. There is rarely a competitive advantage to generating your own power. It is now merely Context, no longer Core. You don’t want to be the organization that has a large staff providing internal power generation.
 
 #### Chapter 18
 - Innovation Council
