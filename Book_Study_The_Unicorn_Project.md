@@ -333,8 +333,8 @@ they correlate with burnout, employee engagement, and more..." pg 106
 #### Chapter 19
 - Teaching Thursdays, two hrs where everyone teaches or learns
 - Destroying servers with sledge hammers
-- Engine sensor idea
 - Data center with grave stones
+- Engine sensor idea
 
 #### Epilouge
 - Everything is awesome!
