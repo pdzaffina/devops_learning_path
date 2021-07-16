@@ -93,13 +93,13 @@
 * Change control process
 * Link between plant floor management and IT Operations
 ### *Key Takeaways*
-* How to deal with a constraint to the system
+* How to deal with a constraint to a system
 * Four types of work
   1. Business Projects pg 92
   1. IT Internal Projects pg 109
   1. Changes pg 110
 ### *Discussion Questions*
-* Do you have a Value Stream MAp for your workflows?
+* Do you have a Value Stream Map for your workflows?
 * What is the percent of changes each week that fail or need to be deferred/ rescheduled?
 
 #### Chapter 8
