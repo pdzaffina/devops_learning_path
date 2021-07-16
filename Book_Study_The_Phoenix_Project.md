@@ -368,5 +368,5 @@
 * Sarah leaving
 
 ### Books I'd Like to See
-* Book from Sarah's (Business Perspective)
+* Book from Sarah's perspective (Business Perspective).
 * Book from Bill's prior work to create a good mid level ops team. Phoenix Project for small teams.
