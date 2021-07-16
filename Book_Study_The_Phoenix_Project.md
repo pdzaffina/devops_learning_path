@@ -127,7 +127,7 @@
     *  ... they are responsible for documenting what they learned, and Brent would never be allowed to work on the same problem twice 
     *  ... Brent not allowed to touch keyboard. He's allowed to tell people what to type and shoulder surf only." 
 * "Processes are supposed to protect people." pg 115
-* "Every time that we let Brent fix something that none of can replicate, Brent gets a little smarter,nd the entire system gets dumber." pg 116
+* "Every time that we let Brent fix something that none of can replicate, Brent gets a little smarter, and the entire system gets dumber." pg 116
 
 #### Chapter 11
 * Continued development of CAB process
