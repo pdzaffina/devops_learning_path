@@ -132,7 +132,7 @@
 #### Chapter 11
 * Continued development of CAB process
 * Need to limit work in the system
-* Color codeing change cards if they involve bottle neck
+* Color coding change cards if they involve bottle neck
 * Work in Process (WIP) of IT work
 
 #### Chapter 12
@@ -162,9 +162,9 @@
 
 #### Chapter 14
 * Business holds IT responsible for finding solutions not just saying no.
-  >> “I need the business to tell me it’s no longer being held hostage by you IT guys. This has been the running complaint the entire time I’ve been CEO. IT is in the way of every major initiative. Meanwhile, our competitors pull away from us, leaving us in the dust. Dammit, we can’t even take a crap without IT being in the way.”
+  > “I need the business to tell me it’s no longer being held hostage by you IT guys. This has been the running complaint the entire time I’ve been CEO. IT is in the way of every major initiative. Meanwhile, our competitors pull away from us, leaving us in the dust. Dammit, we can’t even take a crap without IT being in the way.”
 * Marketing Access Database program
-  >> a combination of the need to deliver needed features to market, forcing us to take shortcuts, which are causing ever-worsening deployments.
+  > a combination of the need to deliver needed features to market, forcing us to take shortcuts, which are causing ever-worsening deployments.
 * Post Phoenix party
 
 #### Chapter 15
@@ -366,3 +366,7 @@
 * not being CIO
 * Bill's career plan
 * Sarah leaving
+
+### Books I'd Like to See
+* Book from Sarah's (Business Perspective)
+* Book from Bill's prior work to create a good mid level ops team. Phoenix Project for small teams.
