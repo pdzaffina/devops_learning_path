@@ -250,7 +250,7 @@
 * improvement kata
   * 2wk cycle for plan, do, check, act
 * color coding change board 
-  * Green - it internal 20%
+  * Green - IT internal 20%
   * purple - top 5 business projects
   * yellow - not priority
   * pink sticky for stuck
