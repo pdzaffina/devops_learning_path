@@ -1,5 +1,12 @@
 # Book Study: The Phoenix Project
 
+## Why even do DevSecOps?
+* Air Force "Gonkulator" case study
+  * https://www.fastcompany.com/40588729/the-air-force-learned-to-code-and-saved-the-pentagon-millions
+  * https://www.airforcemag.com/article/making-the-kessel-run/
+  
+* This is just one example of the book's purpose of "Helping Your Business Win"
+
 ## Section 1: Chapters 1-4
 ### *Themes*
 * Companies rely on technology/ computers more and more.
