@@ -9,6 +9,11 @@
 > 
 > Tim O'Reilly &mdash; Founder & CEO of O'Reilly Media
 
-## Part 1 (ch 1 to ch x)
+## Part 1 (ch 1 to ch 7)
 ### Theme
 ### Key take aways
+
+### Notes
+#### Chapter 1
+* It's interesting that Bill assumes calls are related to an outage. How bad does his life have to be to automatically assume a crisis?
+* It's also interesting that Bill jokes about a career ending outage and acknowledges that it's a thing. Is it that bad where we work?
