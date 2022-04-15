@@ -16,4 +16,6 @@
 ### Notes
 #### Chapter 1
 * It's interesting that Bill assumes calls are related to an outage. How bad does his life have to be to automatically assume a crisis?
-* It's also interesting that Bill jokes about a career ending outage and acknowledges that it's a thing. Is it that bad where we work?
+* Bill jokes about a career ending outage and acknowledges that it's a thing. Is it that bad where we work?
+> "Because they're likely art or music majors, not people with a technology background, they'll publicly promise the impossible and IT will have to figure out how to deliver."
+* sound familiar to you"
