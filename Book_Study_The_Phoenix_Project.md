@@ -72,7 +72,7 @@
 * Benefits of virtualization pg 34
 * Working an outage: Establish a timeline pg 35.
 
-> "To get Finance the dat they need, we may have to cobble together some custom reports, which means bringing in the application developers or database people.
+> "To get Finance the data they need, we may have to cobble together some custom reports, which means bringing in the application developers or database people.
 > But that's like throwing gasoline on the fire. Developers are even worse than networking people. Show me a developer who isn't crashing production systems, and I'll show you one who can't fog a mirror."
 
 > "...continue to plan for the worst and we fully document plan B, so we can pull it off without further complications."
