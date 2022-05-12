@@ -40,7 +40,7 @@
 
 ### *Notes*
 
-#### Chapter 1
+#### Chapter 1 - Tuesday, September 2
 * IT needs to work like plumbing
 * 2nd and 3rd order effects of critical system failure
 * It's interesting that Bill assumes calls are related to an outage. How bad is his life to automatically assume a work call is a crisis?
@@ -59,10 +59,27 @@
 > "... it seems very difficult for senior IT leadership to succeed here. Any request for budget or staff is always shot down, and executives are replaced so quickly, some never get a chance to fully unpack."
   * Not sure this is true for CNO. Seem to have had reasonable increase in resources from 2019 to 2022. Increase will stop and eventually we'll need to do more with less.
 
-#### Chapter 2
+> "What do you want most... And what don't you want?"
+  * Good framing questions.
+
+> "... IT systems to be reliable and available, and for the business to be able to depend upon them. You want disruptions to normal operations kept to an absolute minimum so the business can focus on getting Phoenix done."
+
+
+#### Chapter 2 - Tuesday, September 2
 * Network operations center as a central location during a crisis pg 30
 * Reliance on messiah (Brent) over scripture (systems/ procedures) pg 33
 * Working an outage: Establish a timeline pg 35.
+
+> "To get Finance the dat they need, we may have to cobble together some custom reports, which means bringing in the application developers or database people.
+> But that's like throwing gasoline on the fire. Developers are even worse than networking people. Show me a developer who isn't crashing production systems, and I'll show you one who can't fog a mirror."
+
+> "...continue to plan for the worst and we fully document plan B, so we can pull it off without further complications."
+
+> "I feel better, now that I've seen the problem from the business perspective."
+
+> "When something hits the fan, you need all the various stakeholders and technology managers to communicate and coordinate until the problem is resolved."
+
+
 
 #### Chapter 3
 * Poor IT hardware maintenance (old SAN) pg 37
