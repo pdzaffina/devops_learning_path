@@ -7,26 +7,42 @@
   
 * This is just one example of the book's purpose of "Helping Your Business Win"
 
+## Frontmatter
+> "*The Phoenix Project* is a must read for business and IT executives who are struggling
+> with the growing complexity of IT."
+> 
+> Jim Whitehurst &mdash; President and CEO, Red Hat, Inc.
+
+> "Every person involved in a failed IT project should be forced to read this book."
+> 
+> Tim O'Reilly &mdash; Founder & CEO of O'Reilly Media
+
 ## Week 1: Chapters 1-3
 ### *Themes*
 * Companies rely on technology/ computers more and more.
-* Lean management principles apply to IT/ knowledge work as much as manufacturing plants
+* Lean management principles apply to IT (any knowledge work really) as much as manufacturing plants
    * Visual work
    * Constraint management
-
-### *Key Takeaways*
 * 3 Ways
 * 4 types of work
   1. Business Projects
-* Lean management applies to knowledge work
+
 ### *Discussion Questions*
 * What can we implement/ How can we incorporate lessons?
 * What really resonated with you?
 * Do you know any Brent's?
 
+### *Notes*
+
 #### Chapter 1
 * IT needs to work like plumbing
 * 2nd and 3rd order effects of critical system failure
+* It's interesting that Bill assumes calls are related to an outage. How bad is his life to automatically assume a work call is a crisis?
+* Bill jokes about a career ending outage and acknowledges that it's a thing. Is it like that where we work?
+> "Because they're ... not people with a technology background, they'll publicly promise the impossible and IT will have to figure out how to deliver."
+  * Is this familiar where you work?
+* Is IT in a dingy area where you work?
+* TV reference: *The IT Crowd*
 
 #### Chapter 2
 * Network operations center as a central location during a crisis pg 30
