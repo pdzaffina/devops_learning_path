@@ -56,6 +56,9 @@
 
 > "... the trick to a long career in IT Operations management is to get enough seniority to get good things done but keep your head low enough to avoid the political battles that make you inherently vulnerable. I have absolutley no interest in becomming one of the VPs who just give each other PowerPoints all day long."
 
+> "... it seems very difficult for senior IT leadership to succeed here. Any request for budget or staff is always shot down, and executives are replaced so quickly, some never get a chance to fully unpack."
+  * Not sure this is true for CNO. Seem to have had reasonable increase in resources from 2019 to 2022. Increase will stop and eventually we'll need to do more with less.
+
 #### Chapter 2
 * Network operations center as a central location during a crisis pg 30
 * Reliance on messiah (Brent) over scripture (systems/ procedures) pg 33
