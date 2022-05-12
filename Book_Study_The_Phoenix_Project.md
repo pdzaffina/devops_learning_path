@@ -7,7 +7,7 @@
   
 * This is just one example of the book's purpose of "Helping Your Business Win"
 
-## Section 1: Chapters 1-4
+## Week 1: Chapters 1-3
 ### *Themes*
 * Companies rely on technology/ computers more and more.
 * Lean management principles apply to IT/ knowledge work as much as manufacturing plants
@@ -38,6 +38,18 @@
 * Deployment window 4 months away pg 42
 * Change management is critical pg 44
 * IT seems to always work late hours pg 44
+
+<!--
+
+## Week 2: Chapters 4-6
+### *Themes*
+*
+
+### *Key Takeaways*
+*
+
+### *Discussion Questions*
+*
 
 #### Chapter 4
 * “It’s amazing to me how handoffs between Development and IT Operations always get screwed up.” pg 49
@@ -88,11 +100,11 @@
   1. **Create a culture that simultaneously fosters experimentation, learning from failure, and understanding that repetition and practice are the prerequisites to mastery.**
 * Four types of work pg 88 & 92
   1. Business Projects
-<!--
+
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
+
 
 ## Section 3: Chapters 8-12
 ### *Themes*
@@ -202,11 +214,11 @@
 * Invoices incident
 * Dealing with a Sev-1 incident
 * Bill resigns
-<!--
+
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
+
 ## Section 5: Chapters 17-21
 ### *Themes*
 * Building trust
@@ -294,11 +306,11 @@
 #### Chapter 26
 * marketing phoenix project reporting delayed until next year
 * planning horizon for IT projects greater than 12 months
-<!--
+
 <div style="page-break-after: always;"></div>
 
 # Book Study: The Phoenix Project
--->
+
 ## Section 7: Chapters 27-31
 ### *Themes*
 * Using Lean tools to improve IT operations
@@ -377,3 +389,5 @@
 ### Books I'd Like to See
 * Book from Sarah's perspective (Business Perspective).
 * Book from Bill's prior work to create a good mid level ops team. Phoenix Project for small teams.
+
+-->
