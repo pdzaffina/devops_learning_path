@@ -17,6 +17,9 @@
 > 
 > Tim O'Reilly &mdash; Founder & CEO of O'Reilly Media
 
+## References
+* [Palo Alto Networks Discussion](https://www.youtube.com/watch?v=ygSvdv-QpUM)
+
 ## Week 1: Chapters 1-3
 ### *Themes*
 * Companies rely on technology/ computers more and more.
