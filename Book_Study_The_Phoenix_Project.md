@@ -21,6 +21,7 @@
 * [Palo Alto Networks Discussion](https://www.youtube.com/watch?v=ygSvdv-QpUM)
   * IT organized around technology much like 1900's style manufacturing organized around big machines
   * Cross-functional alignment (breaking down silos)
+  * "Organize around the work"
 
 ## Week 1: Chapters 1-3
 ### *Themes*
