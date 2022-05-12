@@ -38,7 +38,7 @@
 * IT needs to work like plumbing
 * 2nd and 3rd order effects of critical system failure
 * It's interesting that Bill assumes calls are related to an outage. How bad is his life to automatically assume a work call is a crisis?
-* Bill jokes about a career ending outage and acknowledges that it's a thing. Is it like that where we work?
+* Bill jokes about a career ending outage and acknowledges that it's a thing. Is it like that where we work?.
 > "Because they're ... not people with a technology background, they'll publicly promise the impossible and IT will have to figure out how to deliver."
   * Is this familiar where you work?
 * Is IT in a dingy area where you work?
