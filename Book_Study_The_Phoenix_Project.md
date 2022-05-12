@@ -47,6 +47,7 @@
 > "For the last decade, like clockwork, new CIOs would come and go every two years."
   * Why is this the normal today? Is it like that with other C suite execs? 
 > "CIO stands for 'Career is Over'. And VPs of IT Operations don't last much longer."
+
 > "... the trick to a long career in IT Operations management is to get enough seniority to get good things done but keep your head low enough to avoid the political battles that make you inherently vulnerable. I have absolutley no interest in becomming one of the VPs who just give each other PowerPoints all day long."
 
 #### Chapter 2
