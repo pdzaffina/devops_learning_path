@@ -39,10 +39,15 @@
 * 2nd and 3rd order effects of critical system failure
 * It's interesting that Bill assumes calls are related to an outage. How bad is his life to automatically assume a work call is a crisis?
 * Bill jokes about a career ending outage and acknowledges that it's a thing. Is it like that where we work?.
-> "Because they're ... not people with a technology background, they'll publicly promise the impossible and IT will have to figure out how to deliver."
-  * Is this familiar where you work?
 * Is IT in a dingy area where you work?
 * TV reference: *The IT Crowd*
+
+> "Because they're ... not people with a technology background, they'll publicly promise the impossible and IT will have to figure out how to deliver."
+  * Is this familiar where you work?
+> "For the last decade, like clockwork, new CIOs would come and go every two years."
+  * Why is this the normal today? Is it like that with other C suite execs? 
+> "CIO stands for 'Career is Over'. And VPs of IT Operations don't last much longer."
+> "... the trick to a long career in IT Operations management is to get enough seniority to get good things done but keep your head low enough to avoid the political battles that make you inherently vulnerable. I have absolutley no interest in becomming one of the VPs who just give each other PowerPoints all day long."
 
 #### Chapter 2
 * Network operations center as a central location during a crisis pg 30
