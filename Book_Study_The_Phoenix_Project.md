@@ -66,8 +66,10 @@
 
 
 #### Chapter 2 - Tuesday, September 2
+* Help desk and Service desk are the face of the entire IT organization pg 31
 * Network operations center as a central location during a crisis pg 30
 * Reliance on messiah (Brent) over scripture (systems/ procedures) pg 33
+* Benefits of virtualization pg 34
 * Working an outage: Establish a timeline pg 35.
 
 > "To get Finance the dat they need, we may have to cobble together some custom reports, which means bringing in the application developers or database people.
@@ -81,7 +83,7 @@
 
 
 
-#### Chapter 3
+#### Chapter 3 - Tuesday, September 2
 * Poor IT hardware maintenance (old SAN) pg 37
 * Deployment window 4 months away pg 42
 * Change management is critical pg 44
