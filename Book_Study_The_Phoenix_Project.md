@@ -51,7 +51,7 @@
 > "Because they're ... not people with a technology background, they'll publicly promise the impossible and IT will have to figure out how to deliver."
   * Is this familiar where you work?
 > "For the last decade, like clockwork, new CIOs would come and go every two years."
-  * Why is this the normal today? Is it like that with other C suite execs? 
+  * Why is this the norm today? Is it like that with other C suite execs? 
 > "CIO stands for 'Career is Over'. And VPs of IT Operations don't last much longer."
 
 > "... the trick to a long career in IT Operations management is to get enough seniority to get good things done but keep your head low enough to avoid the political battles that make you inherently vulnerable. I have absolutley no interest in becomming one of the VPs who just give each other PowerPoints all day long."
@@ -81,27 +81,34 @@
 
 > "When something hits the fan, you need all the various stakeholders and technology managers to communicate and coordinate until the problem is resolved."
 
-
-
 #### Chapter 3 - Tuesday, September 2
 * Poor IT hardware maintenance (old SAN) pg 37
 * Deployment window 4 months away pg 42
 * Change management is critical pg 44
 * IT seems to always work late hours pg 44
 
-<!--
+> Information Security is always flashing their badges at people and making urgent demands, regardless of the consequences to the rest of the organization...
+
+> We need more process around here and better support from the top.
 
 ## Week 2: Chapters 4-6
 ### *Themes*
-*
-
-### *Key Takeaways*
-*
+* We need to see our selves
+* Are we doing the *right things*?
+* Are we doing *things right*?
+* Processes that are too complex are challenging / won't be followed
+* IT is a vital partner with Enterprise Project Management Office
+* Need to see all the work that needs to be done (with in reason) in order to plan resources and prioritization
+* Break fix work is so disruptive
 
 ### *Discussion Questions*
-*
+* What does our CAB process look like? Is it tough to follow? Is it possible to deploy without following the process?
+* Do we have a "patch Tuseday"? If so when is it and how do you know?
+* There appears to be serious tension between internal developers and operations. Do you feel our teams have this much tension? Why or why not?
 
-#### Chapter 4
+### *Notes*
+
+#### Chapter 4 - Wednesday, September 3
 * “It’s amazing to me how handoffs between Development and IT Operations always get screwed up.” pg 49
 * IT is critical to/ involved in many projects pg 49
 * Development environment and production. Case for VMs/ containerization pg 52
@@ -110,12 +117,12 @@
 * Break-fix cycle pg 56 (top)
 * Desktop support delays pg 57
 
-## Section 2: Chapters 5-7
+ Chapters 5
+ 
+ 
+ Chap 7
 ### *Themes*
 * Theory of Constraints (TOC)
-* We need to see our selves
-* Are we doing the *right things*?
-* Are we doing *things right*?
 ### *Key Takeaways*
 * Critical to have an understanding of what work we're doing and where is it coming from
 ### *Discussion Questions*
