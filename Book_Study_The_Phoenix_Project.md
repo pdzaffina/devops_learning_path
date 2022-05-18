@@ -87,9 +87,9 @@
 * Change management is critical pg 44
 * IT seems to always work late hours pg 44
 
-> Information Security is always flashing their badges at people and making urgent demands, regardless of the consequences to the rest of the organization...
+> "Information Security is always flashing their badges at people and making urgent demands, regardless of the consequences to the rest of the organization..."
 
-> We need more process around here and better support from the top.
+> "We need more process around here and better support..."
 
 ## Week 2: Chapters 4-6
 ### *Themes*
@@ -105,19 +105,59 @@
 * What does our CAB process look like? Is it tough to follow? Is it possible to deploy without following the process?
 * Do we have a "patch Tuseday"? If so when is it and how do you know?
 * There appears to be serious tension between internal developers and operations. Do you feel our teams have this much tension? Why or why not?
+* Have you ever had to work with auditing? Describe the experience?
 
 ### *Notes*
 
 #### Chapter 4 - Wednesday, September 3
-* “It’s amazing to me how handoffs between Development and IT Operations always get screwed up.” pg 49
 * IT is critical to/ involved in many projects pg 49
 * Development environment and production. Case for VMs/ containerization pg 52
 * Deadlines driving decisions pg 54 
    * symptom of poor scoping and poor risk management
 * Break-fix cycle pg 56 (top)
 * Desktop support delays pg 57
+* Politics and CYA emails
 
- Chapters 5
+> "It’s amazing to me how handoffs between Development and IT Operations always get screwed up.” pg 49
+
+> "The majority of our marketing projects can't be done without IT. High tech marketing requires high tech." pg 49
+
+> "...constantly asked to deliver more features and do it in less time, with less money." pg 50
+
+> "Stop trying to do this by e-mail and in the ticketing system. we need everyone in the same room." pg 55
+
+> "Unless we can break this cycle, we'll stay in our terrible downward spiral. Brent needs to work with developers to fix issues at the source so we can stop fighting fires. But Brent can't attend, because he's too busy fighting fires." pg 56
+
+#### Chapters 5 - Thursday, September 4
+* SOX audit and internal audit teams
+* List of all IT todos
+* Key resources over extended and causing bottle necks
+
+> " ...a lot of questions and documentation requests, requiring us to spend a few weeks collecting data and preparing responses." pg 63
+
+> "These findings may force us to conclude that the company no longer has sufficient controls to assert the accuracy of its financial statements" pg 64
+
+> "Brent. Brent, Brent, Brent! Can't we do anything without him?" pg 69
+
+> "You said that people 'add stuff to our list.' What does the list look like right now? Can I get a copy? Who owns the list?" pg 70
+
+> "How can we manage production if we don't know what the demand, priorities, status of work in process, and resource availability are?" pg 71
+
+
+#### Chapter 6 - Friday, September 5
+* Procurement time lag (3 weeks here. Ha! I'd love 3 weeks now)
+* Project work vs. break-fix work problem
+* Defining change and the change management process
+
+> "...we're continually unable to stay focused on the things that matter most to the company." pg 77
+
+> "We've got to figure out how to bring down the amount of break-fix work so we can getbproject work done." pg 77
+
+> "Who's going to keep the application catalog and change management database current?" pg 79
+
+> "**a 'change' is any activity that is physical, logical, or virtual to applications, databases, operating systems, networks, or hardware that could impact services being delivered.**" pg 81
+
+<!--
  
  
  Chap 7
