@@ -151,7 +151,7 @@
 
 > "...we're continually unable to stay focused on the things that matter most to the company." pg 77
 
-> "We've got to figure out how to bring down the amount of break-fix work so we can getbproject work done." pg 77
+> "We've got to figure out how to bring down the amount of break-fix work so we can get project work done." pg 77
 
 > "Who's going to keep the application catalog and change management database current?" pg 79
 
