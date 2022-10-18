@@ -7,3 +7,8 @@
 #### Why does this downward spiral happen everywhere?
 #### The costs: human and economic
 ### The ethics of DevOps: there is a better way
+#### Breaking the downward spiral with DevOps
+#### The business value of DevOps
+#### DevOps helps scale developer productivity
+#### The universality of the solution
+### The DevOps handbook: an essential guide
