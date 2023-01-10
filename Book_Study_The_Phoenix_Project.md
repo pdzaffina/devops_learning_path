@@ -7,6 +7,20 @@
   
 * This is just one example of the book's purpose of "Helping Your Business Win"
 
+## Reading Plan (Schedule)
+* Week 1 - Ch 1-3
+* Week 2 - Ch 4-6
+* Week 3 - Ch 7-9
+* Week 4 - Ch 10-12
+* Week 5 - Ch 13-15
+* Week 6 - Ch 16-18
+* Week 7 - Ch 19-21
+* Week 8 - Ch 22-24
+* Week 9 - Ch 25-27
+* Week 10 - Ch 28-30
+* Week 11 - Ch 31-33
+* Week 12 - Ch 34-35
+
 ## Frontmatter
 > "*The Phoenix Project* is a must read for business and IT executives who are struggling
 > with the growing complexity of IT."
