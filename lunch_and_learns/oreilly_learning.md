@@ -1,6 +1,7 @@
 # O'Reilly Learning
-
-![fake book cover](orly.jpg)
+<kbd>
+<img src="orly.jpg" height="600" />
+  </kbd>
 
 ## Agenda
 - Navigation
