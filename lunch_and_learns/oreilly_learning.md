@@ -1,4 +1,7 @@
 # O'Reilly Learning
+
+![fake book cover](orly.jpg)
+
 ## Agenda
 - Navigation
 - Books
