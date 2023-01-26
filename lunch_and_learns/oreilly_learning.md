@@ -4,6 +4,9 @@
   </kbd>
 
 ## Agenda
+- Addresses VoA
+  - Q3 - Do best
+  - Q12 - Learn and grow
 - Navigation
 - Books
 - Videos
