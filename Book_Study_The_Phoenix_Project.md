@@ -171,7 +171,7 @@
 
 > "**a 'change' is any activity that is physical, logical, or virtual to applications, databases, operating systems, networks, or hardware that could impact services being delivered.**" pg 81
 
-<!--
+
  
  
  Chap 7
@@ -501,4 +501,4 @@
 * Book from Sarah's perspective (Business Perspective).
 * Book from Bill's prior work to create a good mid level ops team. Phoenix Project for small teams.
 
--->
+
