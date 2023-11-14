@@ -126,13 +126,16 @@ Everything is by committee. No one can make decisions, and implementing even the
   * Share something learned lately or new technologies that could change the game
   
 #### Chapter 6
+* PHX project launch event/disaster.
+* Alan Perez
+* IT starting to cover their behinds.
 * Continuous builds pg 99
 * Automated testing pg 99
 
 #### Chapter 7
-1. code deployment lead time pg 106
-1. code deployment frequency pg 106
-1. time to resolve problems pg 106
+* code deployment lead time pg 106
+* code deployment frequency pg 106
+* time to resolve problems pg 106
 * "... are predictive of software delivery, operational perfromance, and organizational performance...
 they correlate with burnout, employee engagement, and more..." pg 106
 * ".. simplicity enable locality..." pg 106
