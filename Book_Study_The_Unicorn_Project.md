@@ -290,6 +290,30 @@ they correlate with burnout, employee engagement, and more..." pg 106
   - API call to USPS address shipping causing crash. no service too small
 
 #### Chapter 16
+### **Key Takeaways:**
+
+- **Metrics Emphasis:** Prioritization of employee engagement and customer satisfaction as crucial metrics for business success.
+
+- **Horizons Model:**
+  - *Horizon 1 (Cash Cow):* Current state with established models.
+  - *Horizon 2 (Future Growth):* Represents the future and transitions at $100 million revenue.
+  - *Horizon 3 (Learning Velocity):* Focus on exploration, prototyping, and risk assessment.
+
+- **Conflict Management:** Caution against unchecked resource consumption by Horizon 1, advocating for the protection of Horizons 2 and 3 for sustained growth.
+
+### **Themes:**
+
+1. **Strategic Business Development:** Emphasis on exploring and validating business ideas, transitioning between different business horizons, and managing conflicts between short-term profitability and long-term growth.
+
+2. **Market Dynamics:** Insights into the competitive advantage of being the first to market, along with statistics on revenue capture based on market entry timing.
+
+3. **Software-Centric Approach:** Recognition of the pervasive role of software in modern business, underscoring the need to enhance developer productivity as a critical component of strategic business investments.
+   
+### *Discussion Questions*
+- Can you identify any "Horizon 1, 2, or 3" projects or business areas at CNO?
+- 
+
+### Discussion
 - redshirts breifing the bridge crew
 - two most important metrics, employee engagement and customer satisfaction
 - "more teams to explore the most promising business ideas, to find the next winner"
