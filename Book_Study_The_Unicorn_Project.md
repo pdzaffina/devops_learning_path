@@ -343,9 +343,41 @@ they correlate with burnout, employee engagement, and more..." pg 106
 # Book Study: The Phoenix Project
 
 ## Section 5: Chapters 17-20
-### *Themes*
-### *Key Takeaways*
+
+### **Key Takeaways:**
+
+- **Project vs. Product Thinking:**
+  - Distinction between project thinking and product thinking is highlighted, emphasizing the importance of managing internal platforms as products for continual improvement.
+
+- **Refactoring Legacy Code:**
+  - Advocacy for refactoring legacy code using tests to isolate and systematically address issues, promoting code simplicity and bug prevention.
+
+- **Hoare Principle:**
+  - Introduction of the Hoare principle, stating two approaches to writing code: simplicity with obvious bug absence or complexity masking obvious bugs.
+
+- **Opposite of Technical Debt:**
+  - Emphasis on the opposite of technical debt—incremental productivity gains paying off consistently over time.
+
+- **Internal Platform as a Product:**
+  - The internal platform is framed as a product to be managed, emphasizing perpetual improvement for customer satisfaction.
+
+### **Themes:**
+
+1. **Strategic Code Management:**
+   - Exploration of methodologies such as refactoring legacy code and adherence to the Hoare principle as strategic approaches to code quality and robustness.
+
+2. **Product-Centric Operations:**
+   - The shift from project thinking to product thinking, emphasizing the perpetual management of internal platforms as products, aligning with the concept of continuous improvement.
+
+3. **Core vs. Context Analysis:**
+   - Discussion of core competencies vs. contextual tasks, with a focus on keeping core processes in-house and outsourcing activities that are 'more than good enough.'
+
+4. **Chief Power Officer Analogy:**
+   - Introduction of the Chief Power Officer analogy, illustrating the evolution of tasks from core to context and the concept of outsourcing non-core activities for efficiency and cost-effectiveness.
+
 ### *Discussion Questions*
+- Does CNO employ a project or product style?
+- Can you point to any Product management style?
 
 #### Chapter 17
 - Project thinking vs. product thinking
