@@ -303,11 +303,11 @@ they correlate with burnout, employee engagement, and more..." pg 106
 
 ### **Themes:**
 
-1. **Strategic Business Development:** Emphasis on exploring and validating business ideas, transitioning between different business horizons, and managing conflicts between short-term profitability and long-term growth.
+- **Strategic Business Development:** Emphasis on exploring and validating business ideas, transitioning between different business horizons, and managing conflicts between short-term profitability and long-term growth.
 
-2. **Market Dynamics:** Insights into the competitive advantage of being the first to market, along with statistics on revenue capture based on market entry timing.
+- **Market Dynamics:** Insights into the competitive advantage of being the first to market, along with statistics on revenue capture based on market entry timing.
 
-3. **Software-Centric Approach:** Recognition of the pervasive role of software in modern business, underscoring the need to enhance developer productivity as a critical component of strategic business investments.
+- **Software-Centric Approach:** Recognition of the pervasive role of software in modern business, underscoring the need to enhance developer productivity as a critical component of strategic business investments.
    
 ### *Discussion Questions*
 - Can you identify any "Horizon 1, 2, or 3" projects or business areas at CNO?
@@ -363,16 +363,16 @@ they correlate with burnout, employee engagement, and more..." pg 106
 
 ### **Themes:**
 
-1. **Strategic Code Management:**
+- **Strategic Code Management:**
    - Exploration of methodologies such as refactoring legacy code and adherence to the Hoare principle as strategic approaches to code quality and robustness.
 
-2. **Product-Centric Operations:**
+- **Product-Centric Operations:**
    - The shift from project thinking to product thinking, emphasizing the perpetual management of internal platforms as products, aligning with the concept of continuous improvement.
 
-3. **Core vs. Context Analysis:**
+- **Core vs. Context Analysis:**
    - Discussion of core competencies vs. contextual tasks, with a focus on keeping core processes in-house and outsourcing activities that are 'more than good enough.'
 
-4. **Chief Power Officer Analogy:**
+- **Chief Power Officer Analogy:**
    - Introduction of the Chief Power Officer analogy, illustrating the evolution of tasks from core to context and the concept of outsourcing non-core activities for efficiency and cost-effectiveness.
 
 ### *Discussion Questions*
