@@ -311,7 +311,7 @@ they correlate with burnout, employee engagement, and more..." pg 106
    
 ### *Discussion Questions*
 - Can you identify any "Horizon 1, 2, or 3" projects or business areas at CNO?
-- 
+- Do you agree with the assertion that Employee Engagement and Customer Satisfaction are the most important metrics? Why or why not?
 
 ### Discussion
 - redshirts breifing the bridge crew
