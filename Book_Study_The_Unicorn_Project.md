@@ -266,7 +266,7 @@ they correlate with burnout, employee engagement, and more..." pg 106
 >
 > Physical stores have five different definitions of in-store sales, including from a company acquired decades ago. There are six different ways that products are catalogued. Product categories and prices don’t line up. The business rules around pricing and promotion are exercises in forensic archaeology. They pulled in business analysts from across the company to help make sense of it and make decisions about how they should be represented.
 - Demo Day
-- " the queries the data scientists are building are a complete mismatch to what they’ve built Narwhal for. Narwhal is stellar at handling API requests from all the various teams across the company, but now they’re learning that it’s spectacularly not great for what the Analytics teams need to do."
+> " the queries the data scientists are building are a complete mismatch to what they’ve built Narwhal for. Narwhal is stellar at handling API requests from all the various teams across the company, but now they’re learning that it’s spectacularly not great for what the Analytics teams need to do."
 
 <ul>
 
