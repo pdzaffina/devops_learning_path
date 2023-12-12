@@ -272,7 +272,7 @@ they correlate with burnout, employee engagement, and more..." pg 106
 
 <li>
 
-> #### " It takes the Data Warehouse team four months to get twenty lines of SQL from Dev to QA to Production. And every time they do, reports break or show incorrect data."
+> " It takes the Data Warehouse team four months to get twenty lines of SQL from Dev to QA to Production. And every time they do, reports break or show incorrect data."
 
 </ul>
 
